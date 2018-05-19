@@ -1,0 +1,2096 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="randyjohnsonsjohnson" label="randyjohnsonsjohnson" />
+      <node id="Lord_Khamul" label="Lord_Khamul" />
+      <node id="De_Facto" label="De_Facto" />
+      <node id="AccountNumber22" label="AccountNumber22" />
+      <node id="Neo_Gatsby" label="Neo_Gatsby" />
+      <node id="vulgarman1" label="vulgarman1" />
+      <node id="got_tha_jist" label="got_tha_jist" />
+      <node id="The_All_Golden" label="The_All_Golden" />
+      <node id="PerfectingPaine" label="PerfectingPaine" />
+      <node id="rayznack11" label="rayznack11" />
+      <node id="wiseprogressivethink" label="wiseprogressivethink" />
+      <node id="Trump_is_Christ" label="Trump_is_Christ" />
+      <node id="Saturnine83" label="Saturnine83" />
+      <node id="gods_bones" label="gods_bones" />
+      <node id="realgiffordpinchot" label="realgiffordpinchot" />
+      <node id="Thinkmoreaboutit" label="Thinkmoreaboutit" />
+      <node id="Labore_Et_Constantia" label="Labore_Et_Constantia" />
+      <node id="samsonkeane" label="samsonkeane" />
+      <node id="ArrantPariah" label="ArrantPariah" />
+      <node id="SiggiZeBear" label="SiggiZeBear" />
+      <node id="tack50" label="tack50" />
+      <node id="Ducttapehamster" label="Ducttapehamster" />
+      <node id="MelissaClick" label="MelissaClick" />
+      <node id="M3nt0R" label="M3nt0R" />
+      <node id="drakecherry" label="drakecherry" />
+      <node id="JohnMiltonJamesJoyce" label="JohnMiltonJamesJoyce" />
+      <node id="mnoise" label="mnoise" />
+      <node id="Jwkdude" label="Jwkdude" />
+      <node id="Lolercausted" label="Lolercausted" />
+      <node id="MonsantoGMOs" label="MonsantoGMOs" />
+      <node id="Needbouttreefiddy" label="Needbouttreefiddy" />
+      <node id="Bryntyr" label="Bryntyr" />
+      <node id="LibertyIsNotFree" label="LibertyIsNotFree" />
+      <node id="hopeyesperanza" label="hopeyesperanza" />
+      <node id="CarlotheNord" label="CarlotheNord" />
+      <node id="RP-on-AF1" label="RP-on-AF1" />
+      <node id="biggerguythanjeb" label="biggerguythanjeb" />
+      <node id="notsurewhatyet" label="notsurewhatyet" />
+      <node id="majestik6" label="majestik6" />
+      <node id="JumpyPorcupine" label="JumpyPorcupine" />
+      <node id="Radicle_Pass_A_Fist" label="Radicle_Pass_A_Fist" />
+      <node id="Disciple_of_Pepe" label="Disciple_of_Pepe" />
+      <node id="NIMBLE_NAV_FAN" label="NIMBLE_NAV_FAN" />
+      <node id="Deadfaux" label="Deadfaux" />
+      <node id="FriedaSpeech" label="FriedaSpeech" />
+      <node id="trueworldtheory" label="trueworldtheory" />
+      <node id="Maxwyfe" label="Maxwyfe" />
+      <node id="zer0vash" label="zer0vash" />
+      <node id="Bronn_McClane" label="Bronn_McClane" />
+      <node id="dogonb" label="dogonb" />
+      <node id="Thracius_Augustus" label="Thracius_Augustus" />
+      <node id="billytheid" label="billytheid" />
+      <node id="redditrat99" label="redditrat99" />
+      <node id="EssencialToLife" label="EssencialToLife" />
+      <node id="aivan021" label="aivan021" />
+      <node id="CreeoyStag" label="CreeoyStag" />
+      <node id="FeminismIsAids" label="FeminismIsAids" />
+      <node id="rushmid" label="rushmid" />
+      <node id="vikingdude3922" label="vikingdude3922" />
+      <node id="marlborowe" label="marlborowe" />
+      <node id="ForgottenMemes" label="ForgottenMemes" />
+      <node id="AFreebornManoftheUSA" label="AFreebornManoftheUSA" />
+      <node id="gildredge" label="gildredge" />
+      <node id="Prometheus444" label="Prometheus444" />
+      <node id="CertifiedRabbi" label="CertifiedRabbi" />
+      <node id="seth-the-wizard" label="seth-the-wizard" />
+      <node id="spunkymarimba" label="spunkymarimba" />
+      <node id="Feathersofaduck" label="Feathersofaduck" />
+      <node id="fashyshub" label="fashyshub" />
+      <node id="MaunaLoona" label="MaunaLoona" />
+      <node id="deadfallpro" label="deadfallpro" />
+      <node id="XxXtrpstrXxX" label="XxXtrpstrXxX" />
+      <node id="Dindu_Muffins" label="Dindu_Muffins" />
+      <node id="peopleareawful32" label="peopleareawful32" />
+      <node id="prettyflamazing" label="prettyflamazing" />
+      <node id="RobotMonkey100" label="RobotMonkey100" />
+      <node id="Airbornefeline_" label="Airbornefeline_" />
+      <node id="RPDBF" label="RPDBF" />
+      <node id="HelperBot_" label="HelperBot_" />
+      <node id="Major_Knibbelwutz" label="Major_Knibbelwutz" />
+      <node id="Yesofcoursenaturally" label="Yesofcoursenaturally" />
+      <node id="edessasail" label="edessasail" />
+      <node id="yourxleftxshoe" label="yourxleftxshoe" />
+      <node id="Gidgetpants" label="Gidgetpants" />
+      <node id="VerdantFuppe" label="VerdantFuppe" />
+      <node id="Kraken_Head" label="Kraken_Head" />
+      <node id="Elufson" label="Elufson" />
+      <node id="hexalby" label="hexalby" />
+      <node id="DalekSeconds" label="DalekSeconds" />
+      <node id="bustedcougar" label="bustedcougar" />
+      <node id="Lord_Henry_James" label="Lord_Henry_James" />
+      <node id="TheMomentWeChewSoap" label="TheMomentWeChewSoap" />
+      <node id="AverageWredditor" label="AverageWredditor" />
+      <node id="Me_Tarzan_You_Gains" label="Me_Tarzan_You_Gains" />
+      <node id="TitaniumDragon" label="TitaniumDragon" />
+      <node id="Psycho_Logically" label="Psycho_Logically" />
+      <node id="IVIaskerade" label="IVIaskerade" />
+      <node id="Gingor" label="Gingor" />
+      <node id="MRA-automatron-2kb" label="MRA-automatron-2kb" />
+      <node id="kolarov133" label="kolarov133" />
+      <node id="Cambck2" label="Cambck2" />
+      <node id="Wheynweed" label="Wheynweed" />
+      <node id="lonewolf-chicago" label="lonewolf-chicago" />
+      <node id="ne99ne" label="ne99ne" />
+      <node id="bigoldgeek" label="bigoldgeek" />
+      <node id="jefeperro" label="jefeperro" />
+      <node id="laslpalp" label="laslpalp" />
+      <node id="hypnobearcoup" label="hypnobearcoup" />
+      <node id="TheFleetmaster" label="TheFleetmaster" />
+      <node id="ARandomBlackDude" label="ARandomBlackDude" />
+      <node id="libertyant" label="libertyant" />
+      <node id="xfLyFPS" label="xfLyFPS" />
+      <node id="warkin" label="warkin" />
+      <node id="DustinTWind" label="DustinTWind" />
+      <node id="BadNerfAgent" label="BadNerfAgent" />
+      <node id="dr_warlock" label="dr_warlock" />
+      <node id="Scyyn" label="Scyyn" />
+      <node id="tysonmoorewood" label="tysonmoorewood" />
+      <node id="Maikowski2" label="Maikowski2" />
+      <node id="leithz6" label="leithz6" />
+      <node id="therightstuffdotbiz" label="therightstuffdotbiz" />
+      <node id="Lemvig42" label="Lemvig42" />
+      <node id="MelGibsonDiedForUs" label="MelGibsonDiedForUs" />
+      <node id="GoodKingWenceslaus" label="GoodKingWenceslaus" />
+      <node id="cheekybeeboo" label="cheekybeeboo" />
+      <node id="Lord_Newbie" label="Lord_Newbie" />
+      <node id="daspoulos" label="daspoulos" />
+      <node id="exit_eu" label="exit_eu" />
+      <node id="ICameHereToRead" label="ICameHereToRead" />
+      <node id="BrodyKraut" label="BrodyKraut" />
+      <node id="One_Winged_Rook" label="One_Winged_Rook" />
+      <node id="Northman93" label="Northman93" />
+      <node id="vkrr" label="vkrr" />
+      <node id="GranAutismo" label="GranAutismo" />
+      <node id="Hedonistbro" label="Hedonistbro" />
+      <node id="winterfjell" label="winterfjell" />
+      <node id="VIIIMan" label="VIIIMan" />
+      <node id="_juicy_thighs_" label="_juicy_thighs_" />
+      <node id="ctrlaltlama" label="ctrlaltlama" />
+      <node id="BabyDinosaurHead" label="BabyDinosaurHead" />
+      <node id="WalterFlynnWhiteJr" label="WalterFlynnWhiteJr" />
+      <node id="FlavorousSumo" label="FlavorousSumo" />
+      <node id="trump420kush" label="trump420kush" />
+      <node id="WyvernGuildOfAlbion" label="WyvernGuildOfAlbion" />
+      <node id="Welderhelp" label="Welderhelp" />
+      <node id="Psychotrip" label="Psychotrip" />
+      <node id="LelRathlor28" label="LelRathlor28" />
+      <node id="thepathelesstraveled" label="thepathelesstraveled" />
+      <node id="ColorMeOffended" label="ColorMeOffended" />
+      <node id="FiveofSwords" label="FiveofSwords" />
+      <node id="Lazerbagels" label="Lazerbagels" />
+      <node id="BedrockPerson" label="BedrockPerson" />
+      <node id="Mamemoo" label="Mamemoo" />
+      <node id="YourLocalMonarchist" label="YourLocalMonarchist" />
+      <node id="MikePenceMakesSense" label="MikePenceMakesSense" />
+      <node id="Pirozhki" label="Pirozhki" />
+      <node id="timothy1982" label="timothy1982" />
+      <node id="GodEmperorPePethe2nd" label="GodEmperorPePethe2nd" />
+      <node id="MWcrazyhorse" label="MWcrazyhorse" />
+      <node id="1KnowNothing" label="1KnowNothing" />
+      <node id="Diarrhea_Van_Frank" label="Diarrhea_Van_Frank" />
+      <node id="ottois2" label="ottois2" />
+      <node id="angryguy4444" label="angryguy4444" />
+      <node id="None_And_Nothing" label="None_And_Nothing" />
+      <node id="JupiterPluto" label="JupiterPluto" />
+      <node id="BestRedditGoy" label="BestRedditGoy" />
+      <node id="Wrath_of_Trump" label="Wrath_of_Trump" />
+      <node id="polisalwaysright2" label="polisalwaysright2" />
+      <node id="donkeyponkey" label="donkeyponkey" />
+      <node id="maikcollos" label="maikcollos" />
+      <node id="iamnathandrake" label="iamnathandrake" />
+      <node id="MUTHAFATHAGENTLEMAN" label="MUTHAFATHAGENTLEMAN" />
+      <node id="Folkisch" label="Folkisch" />
+      <node id="randomshoe" label="randomshoe" />
+      <node id="Peca_Bokem" label="Peca_Bokem" />
+      <node id="The_Scrotum_Tickler" label="The_Scrotum_Tickler" />
+      <node id="thinker43" label="thinker43" />
+      <node id="SocialNationalism" label="SocialNationalism" />
+      <node id="YourGayOpinion" label="YourGayOpinion" />
+      <node id="thealtright" label="thealtright" />
+      <node id="AbbotTheCabbot" label="AbbotTheCabbot" />
+      <node id="TentaculoidBubblegum" label="TentaculoidBubblegum" />
+      <node id="spoida" label="spoida" />
+      <node id="IndigoCup" label="IndigoCup" />
+      <node id="CivilityBeDamned" label="CivilityBeDamned" />
+      <node id="IMULTRAHARDCORE" label="IMULTRAHARDCORE" />
+      <node id="Aoae" label="Aoae" />
+      <node id="MortalSisyphus" label="MortalSisyphus" />
+      <node id="StrongShallInherit" label="StrongShallInherit" />
+      <node id="ThatFeministGirl" label="ThatFeministGirl" />
+      <node id="calm-forest" label="calm-forest" />
+      <node id="Dr_HoaxArthurWilmoth" label="Dr_HoaxArthurWilmoth" />
+      <node id="MidnightTide" label="MidnightTide" />
+      <node id="DarthPun" label="DarthPun" />
+      <node id="n0c1gar" label="n0c1gar" />
+      <node id="Novickk" label="Novickk" />
+      <node id="TheOtherGorgias" label="TheOtherGorgias" />
+      <node id="EternallyMiffed" label="EternallyMiffed" />
+      <node id="EdwardRMeow" label="EdwardRMeow" />
+      <node id="thedreamwalker182" label="thedreamwalker182" />
+      <node id="salemblopblop" label="salemblopblop" />
+      <node id="Saintmyname" label="Saintmyname" />
+      <node id="paradoxpolitics" label="paradoxpolitics" />
+      <node id="dissdigg" label="dissdigg" />
+      <node id="Auphor_Phaksache" label="Auphor_Phaksache" />
+      <node id="opalescex" label="opalescex" />
+      <node id="LoudTsu" label="LoudTsu" />
+      <node id="Icanus" label="Icanus" />
+      <node id="elljawa" label="elljawa" />
+      <node id="huggiesdsc" label="huggiesdsc" />
+      <node id="Elodrian" label="Elodrian" />
+      <node id="Apotheosis276" label="Apotheosis276" />
+      <node id="PhessPhi" label="PhessPhi" />
+      <node id="_fuckallofyou_" label="_fuckallofyou_" />
+      <node id="DeutschAmericana" label="DeutschAmericana" />
+      <node id="Absant" label="Absant" />
+      <node id="gavroche18" label="gavroche18" />
+      <node id="flossingpancakemix" label="flossingpancakemix" />
+      <node id="Kommando666" label="Kommando666" />
+      <node id="Mintaka7" label="Mintaka7" />
+      <node id="HillarysDoctorAMA" label="HillarysDoctorAMA" />
+      <node id="Cosine_X" label="Cosine_X" />
+      <node id="loveforeternity" label="loveforeternity" />
+      <node id="NothingMuchHereToSay" label="NothingMuchHereToSay" />
+      <node id="RyanMAGA" label="RyanMAGA" />
+      <node id="TwitterToStreamable" label="TwitterToStreamable" />
+      <node id="joeroganpodcastfan" label="joeroganpodcastfan" />
+      <node id="DiglettMcDickNuggets" label="DiglettMcDickNuggets" />
+      <node id="AdolfHarden" label="AdolfHarden" />
+      <node id="LeftismLowestCommonD" label="LeftismLowestCommonD" />
+      <node id="Catacomb82" label="Catacomb82" />
+      <node id="sandernista_4_TRUMP" label="sandernista_4_TRUMP" />
+      <node id="Nerf86" label="Nerf86" />
+      <node id="Lord_Belmont" label="Lord_Belmont" />
+      <node id="Axumata" label="Axumata" />
+      <node id="AndForgetMe" label="AndForgetMe" />
+      <node id="TheLegend_NeverDies" label="TheLegend_NeverDies" />
+      <node id="jakefromstatefarm10" label="jakefromstatefarm10" />
+      <node id="_exitus_acta_probat_" label="_exitus_acta_probat_" />
+      <node id="black_brotha" label="black_brotha" />
+      <node id="RomanovRainstorm" label="RomanovRainstorm" />
+      <node id="the_sky_god15" label="the_sky_god15" />
+      <node id="bobsbigboi" label="bobsbigboi" />
+      <node id="deadponydroid" label="deadponydroid" />
+      <node id="CannedBrains" label="CannedBrains" />
+      <node id="prollyjerkingoff" label="prollyjerkingoff" />
+      <node id="sixsexsix" label="sixsexsix" />
+      <node id="patrickkcassells" label="patrickkcassells" />
+      <node id="Viva_La_Reddit" label="Viva_La_Reddit" />
+      <node id="Ebola_Spreader" label="Ebola_Spreader" />
+      <node id="swoleder" label="swoleder" />
+      <node id="TheWesternist" label="TheWesternist" />
+      <node id="rasore" label="rasore" />
+      <node id="DutchHarBro" label="DutchHarBro" />
+      <node id="Neuro_Skeptic" label="Neuro_Skeptic" />
+      <node id="conspiracy_thug" label="conspiracy_thug" />
+      <node id="StopTalkingOK" label="StopTalkingOK" />
+      <node id="BlondFaith" label="BlondFaith" />
+      <node id="UgUgImDyingYouIdiot" label="UgUgImDyingYouIdiot" />
+      <node id="Bocaj1000" label="Bocaj1000" />
+      <node id="recon_johnny" label="recon_johnny" />
+      <node id="WafflesAndMarbles" label="WafflesAndMarbles" />
+      <node id="SoupTyrant" label="SoupTyrant" />
+      <node id="Urban1095" label="Urban1095" />
+      <node id="VagMaster69_4life" label="VagMaster69_4life" />
+      <node id="Kalki_Filth" label="Kalki_Filth" />
+      <node id="maggotbrownie" label="maggotbrownie" />
+      <node id="jamesthunder88" label="jamesthunder88" />
+      <node id="AbortusLuciferum" label="AbortusLuciferum" />
+      <node id="The_Ketum_Man" label="The_Ketum_Man" />
+      <node id="FizzInMyAsheHole" label="FizzInMyAsheHole" />
+      <node id="zipfern" label="zipfern" />
+      <node id="shadenbo" label="shadenbo" />
+      <node id="EiUx0col" label="EiUx0col" />
+      <node id="mcslats12345" label="mcslats12345" />
+      <node id="Ximitar" label="Ximitar" />
+      <node id="Littledipper310" label="Littledipper310" />
+      <node id="TheHeroReditDeserves" label="TheHeroReditDeserves" />
+      <node id="SnakesoverEagles" label="SnakesoverEagles" />
+      <node id="BrokeMike" label="BrokeMike" />
+      <node id="ConvertsToMetric" label="ConvertsToMetric" />
+      <node id="_The_Burn_" label="_The_Burn_" />
+      <node id="FalloutFan2" label="FalloutFan2" />
+      <node id="arealbigboss" label="arealbigboss" />
+      <node id="pbj91738" label="pbj91738" />
+      <node id="TITANUPMAN" label="TITANUPMAN" />
+      <node id="Reversevagina" label="Reversevagina" />
+      <node id="Oftowerbroleaning" label="Oftowerbroleaning" />
+      <node id="kinglyIII" label="kinglyIII" />
+      <node id="danielfromparis" label="danielfromparis" />
+      <node id="wikipediareader" label="wikipediareader" />
+      <node id="eja_cool8" label="eja_cool8" />
+      <node id="TastelessBuild" label="TastelessBuild" />
+      <node id="accountingsteve" label="accountingsteve" />
+      <node id="zeldaisaprude" label="zeldaisaprude" />
+      <node id="i_can_get_you_a_toe" label="i_can_get_you_a_toe" />
+      <node id="RexAnglorumSaxonum" label="RexAnglorumSaxonum" />
+      <node id="Stuntman119" label="Stuntman119" />
+      <node id="Arkenskjold" label="Arkenskjold" />
+      <node id="Cybiu5" label="Cybiu5" />
+      <node id="Saigunx" label="Saigunx" />
+      <node id="martinc31415" label="martinc31415" />
+      <node id="swallowsummer" label="swallowsummer" />
+      <node id="bigdaddyz40" label="bigdaddyz40" />
+      <node id="dorfmanlet" label="dorfmanlet" />
+      <node id="Varg_Burzum_666" label="Varg_Burzum_666" />
+      <node id="Svenarchy" label="Svenarchy" />
+      <node id="psycho1social" label="psycho1social" />
+      <node id="arcoolka" label="arcoolka" />
+      <node id="FalmerbloodElixir" label="FalmerbloodElixir" />
+      <node id="pandoramoonlight" label="pandoramoonlight" />
+      <node id="Jesus_Harry_Christ" label="Jesus_Harry_Christ" />
+      <node id="Niekisch" label="Niekisch" />
+      <node id="TheTopSnek" label="TheTopSnek" />
+      <node id="Loverofdance" label="Loverofdance" />
+      <node id="Doitforthechesty" label="Doitforthechesty" />
+      <node id="smashmarxism" label="smashmarxism" />
+      <node id="Lugodi" label="Lugodi" />
+      <node id="AdolfSuperHitler" label="AdolfSuperHitler" />
+      <node id="Porphyrogennetos" label="Porphyrogennetos" />
+      <node id="Wraith_GraveSpell" label="Wraith_GraveSpell" />
+      <node id="smellslikecat" label="smellslikecat" />
+      <node id="justshitposterthings" label="justshitposterthings" />
+      <node id="AntiHasbaraUnit" label="AntiHasbaraUnit" />
+      <node id="cozye" label="cozye" />
+      <node id="gabrielshekelstein" label="gabrielshekelstein" />
+      <node id="diversity_is_racism" label="diversity_is_racism" />
+      <node id="CAPS_4_FUN" label="CAPS_4_FUN" />
+      <node id="The-Chronic" label="The-Chronic" />
+      <node id="Al-Shakir" label="Al-Shakir" />
+      <node id="Curveball14" label="Curveball14" />
+      <node id="Hoboritler" label="Hoboritler" />
+      <node id="Takingcare757" label="Takingcare757" />
+      <node id="smookykins" label="smookykins" />
+      <node id="Hippieremover" label="Hippieremover" />
+      <node id="Secretly_psycho" label="Secretly_psycho" />
+      <node id="alown" label="alown" />
+      <node id="Jorpba_Lord_of_Slime" label="Jorpba_Lord_of_Slime" />
+      <node id="TheGrim1" label="TheGrim1" />
+      <node id="herewardwakes" label="herewardwakes" />
+      <node id="HonkHonkSkeeter" label="HonkHonkSkeeter" />
+      <node id="_Decimation" label="_Decimation" />
+      <node id="Zechariah_murphy" label="Zechariah_murphy" />
+      <node id="mjaumjau" label="mjaumjau" />
+      <node id="farooq7" label="farooq7" />
+      <node id="Kobathesealion" label="Kobathesealion" />
+      <node id="lnclincoln" label="lnclincoln" />
+      <node id="Tsaryan_" label="Tsaryan_" />
+      <node id="bassline8" label="bassline8" />
+      <node id="Nollyx" label="Nollyx" />
+      <node id="hatredshmatred" label="hatredshmatred" />
+      <node id="hdsgdsagdsaggdsagsda" label="hdsgdsagdsaggdsagsda" />
+      <node id="MasterofForks" label="MasterofForks" />
+      <node id="Eddard_Karstark" label="Eddard_Karstark" />
+      <node id="aristideau" label="aristideau" />
+      <node id="arwg1" label="arwg1" />
+      <node id="Penpenkyle27" label="Penpenkyle27" />
+      <node id="E_Deplorabus_Unum" label="E_Deplorabus_Unum" />
+      <node id="DrLieberstein" label="DrLieberstein" />
+      <node id="waynebradysworld" label="waynebradysworld" />
+      <node id="DontDoH" label="DontDoH" />
+      <node id="UA_Hammer" label="UA_Hammer" />
+      <node id="sneakpeekbot" label="sneakpeekbot" />
+      <node id="PUTINsTiTs" label="PUTINsTiTs" />
+      <node id="BasedBrexitBroker" label="BasedBrexitBroker" />
+      <node id="Samizdat_Press" label="Samizdat_Press" />
+      <node id="foobar5678" label="foobar5678" />
+      <node id="lightfire409" label="lightfire409" />
+      <node id="potato_control" label="potato_control" />
+      <node id="LambsAnger" label="LambsAnger" />
+      <node id="CuckzBTFO" label="CuckzBTFO" />
+      <node id="RantasaurusRekt" label="RantasaurusRekt" />
+      <node id="Coluphid" label="Coluphid" />
+      <node id="Dysnomi" label="Dysnomi" />
+      <node id="Belrox" label="Belrox" />
+      <node id="ruthekangaroo" label="ruthekangaroo" />
+      <node id="Auctoritate" label="Auctoritate" />
+      <node id="ExFoundOutMyOldName" label="ExFoundOutMyOldName" />
+      <node id="Pastelitomaracucho" label="Pastelitomaracucho" />
+      <node id="donkey_democrat" label="donkey_democrat" />
+      <node id="SSJ3DonaldTrump" label="SSJ3DonaldTrump" />
+      <node id="PlasmaRiver" label="PlasmaRiver" />
+      <node id="7yrlrkr" label="7yrlrkr" />
+      <node id="barkusmuhl" label="barkusmuhl" />
+      <node id="Ultra_Patriot" label="Ultra_Patriot" />
+      <node id="puffykilled2pac" label="puffykilled2pac" />
+      <node id="HeilHitla" label="HeilHitla" />
+      <node id="_-Long-n-Strong-_" label="_-Long-n-Strong-_" />
+      <node id="BasedTojo" label="BasedTojo" />
+      <node id="robertml" label="robertml" />
+      <node id="iceboob" label="iceboob" />
+      <node id="NationalismSaves" label="NationalismSaves" />
+      <node id="roflocalypselol" label="roflocalypselol" />
+      <node id="GeraldoSemPavor" label="GeraldoSemPavor" />
+      <node id="throwaway__rnd" label="throwaway__rnd" />
+      <node id="cubev10" label="cubev10" />
+      <node id="DaBigBadGoy" label="DaBigBadGoy" />
+      <node id="Callooh_Calais" label="Callooh_Calais" />
+      <node id="sizzletron" label="sizzletron" />
+      <node id="anonymous3182" label="anonymous3182" />
+      <node id="myndzha" label="myndzha" />
+      <node id="RP_Student" label="RP_Student" />
+      <node id="Hitlers-Happy-HR-dpt" label="Hitlers-Happy-HR-dpt" />
+      <node id="flippermcgeek" label="flippermcgeek" />
+      <node id="Ferenix2" label="Ferenix2" />
+      <node id="ClericPreston815" label="ClericPreston815" />
+      <node id="schnazzmizzles" label="schnazzmizzles" />
+      <node id="BigMatteson" label="BigMatteson" />
+      <node id="MessisTaxAccountant" label="MessisTaxAccountant" />
+      <node id="Like_Onyx" label="Like_Onyx" />
+      <node id="natedog5454101" label="natedog5454101" />
+      <node id="Muscle_Mass" label="Muscle_Mass" />
+      <node id="lukesterboi1" label="lukesterboi1" />
+      <node id="Angelic2TheCore" label="Angelic2TheCore" />
+      <node id="ChopperIndacar" label="ChopperIndacar" />
+      <node id="KeKaRoNi" label="KeKaRoNi" />
+      <node id="TubeUnblockv1" label="TubeUnblockv1" />
+      <node id="Helikzhan" label="Helikzhan" />
+      <node id="13301" label="13301" />
+      <node id="DeAristoi" label="DeAristoi" />
+      <node id="returnofgreatgibbon" label="returnofgreatgibbon" />
+      <node id="KingMarshmalo" label="KingMarshmalo" />
+      <node id="gigatrap" label="gigatrap" />
+      <node id="highprofittrade" label="highprofittrade" />
+      <node id="MongolianCluster" label="MongolianCluster" />
+      <node id="slippery_people" label="slippery_people" />
+      <node id="B8444S" label="B8444S" />
+      <node id="BigVeinyThrobber" label="BigVeinyThrobber" />
+      <node id="greyhunter4" label="greyhunter4" />
+      <node id="roccogillybean" label="roccogillybean" />
+      <node id="Jaewok" label="Jaewok" />
+      <node id="Ryonne" label="Ryonne" />
+      <node id="HerrHamil" label="HerrHamil" />
+      <node id="your_comments_say" label="your_comments_say" />
+      <node id="Name_change_here" label="Name_change_here" />
+      <node id="Shrugfacebot" label="Shrugfacebot" />
+      <node id="G_Petronius" label="G_Petronius" />
+      <node id="aleister" label="aleister" />
+      <node id="RedPillDessert" label="RedPillDessert" />
+      <node id="LeDrop" label="LeDrop" />
+      <node id="anechoicmedia" label="anechoicmedia" />
+      <node id="CoatConfiscator" label="CoatConfiscator" />
+      <node id="RepoMan9130" label="RepoMan9130" />
+      <node id="AnorexicBuddha" label="AnorexicBuddha" />
+      <node id="Luigidagawd" label="Luigidagawd" />
+      <node id="bigassbananaboat" label="bigassbananaboat" />
+      <node id="BadMawDota" label="BadMawDota" />
+      <node id="GlobalSouth" label="GlobalSouth" />
+      <node id="Desay" label="Desay" />
+      <node id="bad_pattern10" label="bad_pattern10" />
+      <node id="Bane047" label="Bane047" />
+      <node id="malthuswaswrong" label="malthuswaswrong" />
+      <node id="Lizard_Of_Ozz" label="Lizard_Of_Ozz" />
+      <node id="gringreazy" label="gringreazy" />
+      <node id="Bigdickedelf" label="Bigdickedelf" />
+      <node id="Heathcliff--" label="Heathcliff--" />
+      <node id="SeattleSlimeball" label="SeattleSlimeball" />
+      <node id="Trumpdonald17" label="Trumpdonald17" />
+      <node id="Aders83" label="Aders83" />
+      <node id="leastbeast" label="leastbeast" />
+      <node id="ZweiHollowFangs" label="ZweiHollowFangs" />
+      <node id="RightWingPrankSquads" label="RightWingPrankSquads" />
+      <node id="AintGotNoTimeFoThis" label="AintGotNoTimeFoThis" />
+      <node id="brmlb" label="brmlb" />
+      <node id="satanicpriest13" label="satanicpriest13" />
+      <node id="NeedHelpWithExcel" label="NeedHelpWithExcel" />
+      <node id="CtrlAltFetus" label="CtrlAltFetus" />
+      <node id="Raspberries88" label="Raspberries88" />
+      <node id="Thrownitawaytho" label="Thrownitawaytho" />
+      <node id="sgt_squirrel" label="sgt_squirrel" />
+      <node id="PutinKills" label="PutinKills" />
+      <node id="texan_Tussler" label="texan_Tussler" />
+      <node id="twistynip" label="twistynip" />
+      <node id="Sly_Meme" label="Sly_Meme" />
+      <node id="blakdart" label="blakdart" />
+      <node id="JunyiiBlvc" label="JunyiiBlvc" />
+      <node id="2mo_xmas_pasta" label="2mo_xmas_pasta" />
+      <node id="A_Mathematician" label="A_Mathematician" />
+      <node id="Bitcoin_Chief" label="Bitcoin_Chief" />
+      <node id="bluespirit442" label="bluespirit442" />
+      <node id="Beardedcap" label="Beardedcap" />
+      <node id="No_all" label="No_all" />
+      <node id="Muntberg" label="Muntberg" />
+      <node id="Chachmaster3000" label="Chachmaster3000" />
+      <node id="not__banksy" label="not__banksy" />
+      <node id="RiidoDorito" label="RiidoDorito" />
+      <node id="GuapoBermejo" label="GuapoBermejo" />
+      <node id="RageAgainstThis" label="RageAgainstThis" />
+      <node id="cheerstocrime" label="cheerstocrime" />
+      <node id="conativejj" label="conativejj" />
+      <node id="SurfTheKaliYuga" label="SurfTheKaliYuga" />
+      <node id="nuesuh" label="nuesuh" />
+      <node id="Captainmorphine" label="Captainmorphine" />
+      <node id="BenReilly616" label="BenReilly616" />
+      <node id="Baboon_Mindset" label="Baboon_Mindset" />
+      <node id="Shiyya27" label="Shiyya27" />
+      <node id="verdatum" label="verdatum" />
+    </nodes>
+    <edges>
+      <edge id="0" source="randyjohnsonsjohnson" target="deadfallpro" weight="2" />
+      <edge id="1" source="randyjohnsonsjohnson" target="Chachmaster3000" weight="2" />
+      <edge id="2" source="Lord_Khamul" target="IVIaskerade" weight="2" />
+      <edge id="3" source="De_Facto" target="CivilityBeDamned" weight="2" />
+      <edge id="4" source="AccountNumber22" target="IVIaskerade" weight="2" />
+      <edge id="5" source="Neo_Gatsby" target="DaBigBadGoy" weight="2" />
+      <edge id="6" source="Neo_Gatsby" target="the_sky_god15" weight="2" />
+      <edge id="7" source="Neo_Gatsby" target="IMULTRAHARDCORE" weight="2" />
+      <edge id="8" source="Neo_Gatsby" target="highprofittrade" weight="2" />
+      <edge id="9" source="Neo_Gatsby" target="lnclincoln" weight="2" />
+      <edge id="10" source="Neo_Gatsby" target="lukesterboi1" weight="2" />
+      <edge id="11" source="Neo_Gatsby" target="PerfectingPaine" weight="2" />
+      <edge id="12" source="Neo_Gatsby" target="ThatFeministGirl" weight="2" />
+      <edge id="13" source="Neo_Gatsby" target="AdolfSuperHitler" weight="3" />
+      <edge id="14" source="Neo_Gatsby" target="CAPS_4_FUN" weight="2" />
+      <edge id="15" source="Neo_Gatsby" target="Jwkdude" weight="3" />
+      <edge id="16" source="vulgarman1" target="Labore_Et_Constantia" weight="3" />
+      <edge id="17" source="got_tha_jist" target="Mamemoo" weight="2" />
+      <edge id="18" source="got_tha_jist" target="Chachmaster3000" weight="2" />
+      <edge id="19" source="The_All_Golden" target="hatredshmatred" weight="2" />
+      <edge id="20" source="The_All_Golden" target="trueworldtheory" weight="2" />
+      <edge id="21" source="The_All_Golden" target="throwaway__rnd" weight="2" />
+      <edge id="22" source="The_All_Golden" target="SocialNationalism" weight="2" />
+      <edge id="23" source="The_All_Golden" target="IMULTRAHARDCORE" weight="5" />
+      <edge id="24" source="The_All_Golden" target="farooq7" weight="2" />
+      <edge id="25" source="The_All_Golden" target="Trump_is_Christ" weight="5" />
+      <edge id="26" source="The_All_Golden" target="AdolfSuperHitler" weight="2" />
+      <edge id="27" source="The_All_Golden" target="Feathersofaduck" weight="2" />
+      <edge id="28" source="The_All_Golden" target="PerfectingPaine" weight="4" />
+      <edge id="29" source="The_All_Golden" target="DiglettMcDickNuggets" weight="2" />
+      <edge id="30" source="The_All_Golden" target="NothingMuchHereToSay" weight="4" />
+      <edge id="31" source="The_All_Golden" target="dorfmanlet" weight="4" />
+      <edge id="32" source="The_All_Golden" target="FiveofSwords" weight="3" />
+      <edge id="33" source="The_All_Golden" target="CAPS_4_FUN" weight="6" />
+      <edge id="34" source="The_All_Golden" target="herewardwakes" weight="2" />
+      <edge id="35" source="PerfectingPaine" target="Pastelitomaracucho" weight="6" />
+      <edge id="36" source="PerfectingPaine" target="FalloutFan2" weight="2" />
+      <edge id="37" source="PerfectingPaine" target="jakefromstatefarm10" weight="2" />
+      <edge id="38" source="PerfectingPaine" target="lukesterboi1" weight="3" />
+      <edge id="39" source="PerfectingPaine" target="texan_Tussler" weight="2" />
+      <edge id="40" source="PerfectingPaine" target="Lolercausted" weight="3" />
+      <edge id="41" source="PerfectingPaine" target="thepathelesstraveled" weight="2" />
+      <edge id="42" source="PerfectingPaine" target="Desay" weight="4" />
+      <edge id="43" source="PerfectingPaine" target="FiveofSwords" weight="7" />
+      <edge id="44" source="PerfectingPaine" target="Bryntyr" weight="2" />
+      <edge id="45" source="PerfectingPaine" target="smashmarxism" weight="7" />
+      <edge id="46" source="PerfectingPaine" target="SocialNationalism" weight="5" />
+      <edge id="47" source="PerfectingPaine" target="DeAristoi" weight="6" />
+      <edge id="48" source="PerfectingPaine" target="GeraldoSemPavor" weight="3" />
+      <edge id="49" source="PerfectingPaine" target="NothingMuchHereToSay" weight="7" />
+      <edge id="50" source="PerfectingPaine" target="thealtright" weight="7" />
+      <edge id="51" source="PerfectingPaine" target="AdolfSuperHitler" weight="9" />
+      <edge id="52" source="PerfectingPaine" target="Trump_is_Christ" weight="10" />
+      <edge id="53" source="PerfectingPaine" target="CarlotheNord" weight="3" />
+      <edge id="54" source="PerfectingPaine" target="Saturnine83" weight="6" />
+      <edge id="55" source="PerfectingPaine" target="DeutschAmericana" weight="3" />
+      <edge id="56" source="PerfectingPaine" target="UA_Hammer" weight="3" />
+      <edge id="57" source="PerfectingPaine" target="IMULTRAHARDCORE" weight="10" />
+      <edge id="58" source="PerfectingPaine" target="trueworldtheory" weight="4" />
+      <edge id="59" source="PerfectingPaine" target="ThatFeministGirl" weight="8" />
+      <edge id="60" source="PerfectingPaine" target="throwaway__rnd" weight="6" />
+      <edge id="61" source="PerfectingPaine" target="CAPS_4_FUN" weight="13" />
+      <edge id="62" source="PerfectingPaine" target="The-Chronic" weight="4" />
+      <edge id="63" source="PerfectingPaine" target="RP_Student" weight="2" />
+      <edge id="64" source="PerfectingPaine" target="Al-Shakir" weight="2" />
+      <edge id="65" source="PerfectingPaine" target="Kraken_Head" weight="3" />
+      <edge id="66" source="PerfectingPaine" target="JupiterPluto" weight="2" />
+      <edge id="67" source="PerfectingPaine" target="Lord_Henry_James" weight="2" />
+      <edge id="68" source="PerfectingPaine" target="dorfmanlet" weight="4" />
+      <edge id="69" source="PerfectingPaine" target="herewardwakes" weight="6" />
+      <edge id="70" source="rayznack11" target="RP_Student" weight="3" />
+      <edge id="71" source="rayznack11" target="IMULTRAHARDCORE" weight="3" />
+      <edge id="72" source="rayznack11" target="smashmarxism" weight="2" />
+      <edge id="73" source="rayznack11" target="SocialNationalism" weight="6" />
+      <edge id="74" source="wiseprogressivethink" target="E_Deplorabus_Unum" weight="2" />
+      <edge id="75" source="wiseprogressivethink" target="blakdart" weight="2" />
+      <edge id="76" source="wiseprogressivethink" target="Oftowerbroleaning" weight="2" />
+      <edge id="77" source="wiseprogressivethink" target="BigVeinyThrobber" weight="4" />
+      <edge id="78" source="Trump_is_Christ" target="Pastelitomaracucho" weight="4" />
+      <edge id="79" source="Trump_is_Christ" target="lukesterboi1" weight="3" />
+      <edge id="80" source="Trump_is_Christ" target="Lolercausted" weight="4" />
+      <edge id="81" source="Trump_is_Christ" target="Desay" weight="4" />
+      <edge id="82" source="Trump_is_Christ" target="sixsexsix" weight="4" />
+      <edge id="83" source="Trump_is_Christ" target="_The_Burn_" weight="2" />
+      <edge id="84" source="Trump_is_Christ" target="SocialNationalism" weight="3" />
+      <edge id="85" source="Trump_is_Christ" target="CarlotheNord" weight="2" />
+      <edge id="86" source="Trump_is_Christ" target="throwaway__rnd" weight="4" />
+      <edge id="87" source="Trump_is_Christ" target="AdolfSuperHitler" weight="5" />
+      <edge id="88" source="Trump_is_Christ" target="smashmarxism" weight="5" />
+      <edge id="89" source="Trump_is_Christ" target="FiveofSwords" weight="3" />
+      <edge id="90" source="Trump_is_Christ" target="Saturnine83" weight="5" />
+      <edge id="91" source="Trump_is_Christ" target="Northman93" weight="2" />
+      <edge id="92" source="Trump_is_Christ" target="Bryntyr" weight="2" />
+      <edge id="93" source="Trump_is_Christ" target="IMULTRAHARDCORE" weight="16" />
+      <edge id="94" source="Trump_is_Christ" target="trueworldtheory" weight="2" />
+      <edge id="95" source="Trump_is_Christ" target="winterfjell" weight="2" />
+      <edge id="96" source="Trump_is_Christ" target="ThatFeministGirl" weight="5" />
+      <edge id="97" source="Trump_is_Christ" target="FriedaSpeech" weight="5" />
+      <edge id="98" source="Trump_is_Christ" target="CAPS_4_FUN" weight="7" />
+      <edge id="99" source="Trump_is_Christ" target="RP_Student" weight="3" />
+      <edge id="100" source="Trump_is_Christ" target="NothingMuchHereToSay" weight="4" />
+      <edge id="101" source="Trump_is_Christ" target="EssencialToLife" weight="3" />
+      <edge id="102" source="Trump_is_Christ" target="dorfmanlet" weight="7" />
+      <edge id="103" source="Trump_is_Christ" target="Reversevagina" weight="2" />
+      <edge id="104" source="Trump_is_Christ" target="herewardwakes" weight="7" />
+      <edge id="105" source="Saturnine83" target="Pastelitomaracucho" weight="4" />
+      <edge id="106" source="Saturnine83" target="jakefromstatefarm10" weight="3" />
+      <edge id="107" source="Saturnine83" target="Welderhelp" weight="8" />
+      <edge id="108" source="Saturnine83" target="Desay" weight="2" />
+      <edge id="109" source="Saturnine83" target="FiveofSwords" weight="3" />
+      <edge id="110" source="Saturnine83" target="thealtright" weight="2" />
+      <edge id="111" source="Saturnine83" target="Bryntyr" weight="2" />
+      <edge id="112" source="Saturnine83" target="sixsexsix" weight="2" />
+      <edge id="113" source="Saturnine83" target="smashmarxism" weight="4" />
+      <edge id="114" source="Saturnine83" target="NothingMuchHereToSay" weight="5" />
+      <edge id="115" source="Saturnine83" target="DeutschAmericana" weight="3" />
+      <edge id="116" source="Saturnine83" target="AdolfSuperHitler" weight="4" />
+      <edge id="117" source="Saturnine83" target="IMULTRAHARDCORE" weight="12" />
+      <edge id="118" source="Saturnine83" target="ThatFeministGirl" weight="3" />
+      <edge id="119" source="Saturnine83" target="FriedaSpeech" weight="2" />
+      <edge id="120" source="Saturnine83" target="CAPS_4_FUN" weight="8" />
+      <edge id="121" source="Saturnine83" target="Kraken_Head" weight="2" />
+      <edge id="122" source="Saturnine83" target="DiglettMcDickNuggets" weight="3" />
+      <edge id="123" source="Saturnine83" target="dorfmanlet" weight="3" />
+      <edge id="124" source="Saturnine83" target="herewardwakes" weight="4" />
+      <edge id="125" source="gods_bones" target="sgt_squirrel" weight="3" />
+      <edge id="126" source="gods_bones" target="redditrat99" weight="2" />
+      <edge id="127" source="gods_bones" target="FalloutFan2" weight="3" />
+      <edge id="128" source="gods_bones" target="MRA-automatron-2kb" weight="4" />
+      <edge id="129" source="gods_bones" target="Saintmyname" weight="3" />
+      <edge id="130" source="gods_bones" target="Coluphid" weight="13" />
+      <edge id="131" source="gods_bones" target="Helikzhan" weight="2" />
+      <edge id="132" source="gods_bones" target="eja_cool8" weight="3" />
+      <edge id="133" source="gods_bones" target="smashmarxism" weight="4" />
+      <edge id="134" source="gods_bones" target="lonewolf-chicago" weight="21" />
+      <edge id="135" source="realgiffordpinchot" target="Mamemoo" weight="2" />
+      <edge id="136" source="realgiffordpinchot" target="danielfromparis" weight="3" />
+      <edge id="137" source="realgiffordpinchot" target="shadenbo" weight="2" />
+      <edge id="138" source="realgiffordpinchot" target="Radicle_Pass_A_Fist" weight="2" />
+      <edge id="139" source="realgiffordpinchot" target="RightWingPrankSquads" weight="2" />
+      <edge id="140" source="realgiffordpinchot" target="FeminismIsAids" weight="2" />
+      <edge id="141" source="Thinkmoreaboutit" target="anonymous3182" weight="4" />
+      <edge id="142" source="Labore_Et_Constantia" target="nuesuh" weight="2" />
+      <edge id="143" source="Labore_Et_Constantia" target="Curveball14" weight="6" />
+      <edge id="144" source="Labore_Et_Constantia" target="EternallyMiffed" weight="2" />
+      <edge id="145" source="Labore_Et_Constantia" target="Psycho_Logically" weight="2" />
+      <edge id="146" source="Labore_Et_Constantia" target="sneakpeekbot" weight="2" />
+      <edge id="147" source="Labore_Et_Constantia" target="Ferenix2" weight="4" />
+      <edge id="148" source="Labore_Et_Constantia" target="pandoramoonlight" weight="4" />
+      <edge id="149" source="Labore_Et_Constantia" target="SnakesoverEagles" weight="8" />
+      <edge id="150" source="Labore_Et_Constantia" target="Dysnomi" weight="2" />
+      <edge id="151" source="Labore_Et_Constantia" target="loveforeternity" weight="11" />
+      <edge id="152" source="Labore_Et_Constantia" target="IndigoCup" weight="4" />
+      <edge id="153" source="Labore_Et_Constantia" target="samsonkeane" weight="2" />
+      <edge id="154" source="Labore_Et_Constantia" target="ChopperIndacar" weight="3" />
+      <edge id="155" source="samsonkeane" target="justshitposterthings" weight="2" />
+      <edge id="156" source="samsonkeane" target="Chachmaster3000" weight="2" />
+      <edge id="157" source="samsonkeane" target="conspiracy_thug" weight="2" />
+      <edge id="158" source="ArrantPariah" target="Secretly_psycho" weight="2" />
+      <edge id="159" source="SiggiZeBear" target="jakefromstatefarm10" weight="2" />
+      <edge id="160" source="tack50" target="hexalby" weight="3" />
+      <edge id="161" source="tack50" target="Secretly_psycho" weight="2" />
+      <edge id="162" source="Ducttapehamster" target="iceboob" weight="2" />
+      <edge id="163" source="MelissaClick" target="Bigdickedelf" weight="2" />
+      <edge id="164" source="MelissaClick" target="smookykins" weight="2" />
+      <edge id="165" source="M3nt0R" target="Mamemoo" weight="5" />
+      <edge id="166" source="M3nt0R" target="danielfromparis" weight="2" />
+      <edge id="167" source="M3nt0R" target="iamnathandrake" weight="2" />
+      <edge id="168" source="M3nt0R" target="13301" weight="2" />
+      <edge id="169" source="M3nt0R" target="Yesofcoursenaturally" weight="2" />
+      <edge id="170" source="M3nt0R" target="alown" weight="2" />
+      <edge id="171" source="M3nt0R" target="NIMBLE_NAV_FAN" weight="2" />
+      <edge id="172" source="M3nt0R" target="Muntberg" weight="2" />
+      <edge id="173" source="M3nt0R" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="174" source="M3nt0R" target="RP-on-AF1" weight="5" />
+      <edge id="175" source="M3nt0R" target="YourGayOpinion" weight="3" />
+      <edge id="176" source="M3nt0R" target="polisalwaysright2" weight="2" />
+      <edge id="177" source="drakecherry" target="highprofittrade" weight="2" />
+      <edge id="178" source="JohnMiltonJamesJoyce" target="TheOtherGorgias" weight="2" />
+      <edge id="179" source="JohnMiltonJamesJoyce" target="Yesofcoursenaturally" weight="3" />
+      <edge id="180" source="JohnMiltonJamesJoyce" target="Baboon_Mindset" weight="2" />
+      <edge id="181" source="JohnMiltonJamesJoyce" target="wikipediareader" weight="2" />
+      <edge id="182" source="mnoise" target="conativejj" weight="2" />
+      <edge id="183" source="Jwkdude" target="donkeyponkey" weight="3" />
+      <edge id="184" source="Jwkdude" target="black_brotha" weight="3" />
+      <edge id="185" source="Jwkdude" target="the_sky_god15" weight="4" />
+      <edge id="186" source="Jwkdude" target="Luigidagawd" weight="2" />
+      <edge id="187" source="Jwkdude" target="lnclincoln" weight="4" />
+      <edge id="188" source="Jwkdude" target="Thrownitawaytho" weight="2" />
+      <edge id="189" source="Jwkdude" target="bad_pattern10" weight="2" />
+      <edge id="190" source="Jwkdude" target="Angelic2TheCore" weight="2" />
+      <edge id="191" source="Jwkdude" target="YourGayOpinion" weight="4" />
+      <edge id="192" source="Jwkdude" target="ne99ne" weight="2" />
+      <edge id="193" source="Jwkdude" target="smookykins" weight="2" />
+      <edge id="194" source="Jwkdude" target="Mamemoo" weight="9" />
+      <edge id="195" source="Jwkdude" target="Psychotrip" weight="2" />
+      <edge id="196" source="Jwkdude" target="Doitforthechesty" weight="2" />
+      <edge id="197" source="Jwkdude" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="198" source="Jwkdude" target="RP-on-AF1" weight="2" />
+      <edge id="199" source="Jwkdude" target="DutchHarBro" weight="4" />
+      <edge id="200" source="Jwkdude" target="Chachmaster3000" weight="3" />
+      <edge id="201" source="Jwkdude" target="danielfromparis" weight="2" />
+      <edge id="202" source="Jwkdude" target="highprofittrade" weight="7" />
+      <edge id="203" source="Jwkdude" target="Aoae" weight="2" />
+      <edge id="204" source="Jwkdude" target="RightWingPrankSquads" weight="2" />
+      <edge id="205" source="Jwkdude" target="Urban1095" weight="2" />
+      <edge id="206" source="Jwkdude" target="NIMBLE_NAV_FAN" weight="2" />
+      <edge id="207" source="Jwkdude" target="7yrlrkr" weight="2" />
+      <edge id="208" source="Jwkdude" target="Hitlers-Happy-HR-dpt" weight="2" />
+      <edge id="209" source="Jwkdude" target="HerrHamil" weight="2" />
+      <edge id="210" source="Jwkdude" target="laslpalp" weight="2" />
+      <edge id="211" source="Jwkdude" target="Saigunx" weight="6" />
+      <edge id="212" source="Jwkdude" target="AndForgetMe" weight="3" />
+      <edge id="213" source="Jwkdude" target="RedPillDessert" weight="2" />
+      <edge id="214" source="Jwkdude" target="deadfallpro" weight="2" />
+      <edge id="215" source="Jwkdude" target="alown" weight="2" />
+      <edge id="216" source="Jwkdude" target="Varg_Burzum_666" weight="2" />
+      <edge id="217" source="Jwkdude" target="FeminismIsAids" weight="2" />
+      <edge id="218" source="Jwkdude" target="polisalwaysright2" weight="3" />
+      <edge id="219" source="Lolercausted" target="Pastelitomaracucho" weight="2" />
+      <edge id="220" source="Lolercausted" target="RexAnglorumSaxonum" weight="4" />
+      <edge id="221" source="Lolercausted" target="IMULTRAHARDCORE" weight="2" />
+      <edge id="222" source="Lolercausted" target="DeAristoi" weight="3" />
+      <edge id="223" source="Lolercausted" target="ThatFeministGirl" weight="4" />
+      <edge id="224" source="Lolercausted" target="DiglettMcDickNuggets" weight="4" />
+      <edge id="225" source="Lolercausted" target="dorfmanlet" weight="3" />
+      <edge id="226" source="Lolercausted" target="throwaway__rnd" weight="3" />
+      <edge id="227" source="Lolercausted" target="AdolfSuperHitler" weight="4" />
+      <edge id="228" source="Lolercausted" target="CAPS_4_FUN" weight="4" />
+      <edge id="229" source="Lolercausted" target="smashmarxism" weight="2" />
+      <edge id="230" source="MonsantoGMOs" target="WalterFlynnWhiteJr" weight="2" />
+      <edge id="231" source="MonsantoGMOs" target="leastbeast" weight="2" />
+      <edge id="232" source="MonsantoGMOs" target="RiidoDorito" weight="2" />
+      <edge id="233" source="MonsantoGMOs" target="Callooh_Calais" weight="3" />
+      <edge id="234" source="MonsantoGMOs" target="Secretly_psycho" weight="3" />
+      <edge id="235" source="Needbouttreefiddy" target="Mamemoo" weight="5" />
+      <edge id="236" source="Needbouttreefiddy" target="roccogillybean" weight="2" />
+      <edge id="237" source="Needbouttreefiddy" target="AintGotNoTimeFoThis" weight="2" />
+      <edge id="238" source="Needbouttreefiddy" target="ZweiHollowFangs" weight="2" />
+      <edge id="239" source="Needbouttreefiddy" target="BrodyKraut" weight="2" />
+      <edge id="240" source="Needbouttreefiddy" target="E_Deplorabus_Unum" weight="2" />
+      <edge id="241" source="Needbouttreefiddy" target="NIMBLE_NAV_FAN" weight="2" />
+      <edge id="242" source="Needbouttreefiddy" target="YourGayOpinion" weight="3" />
+      <edge id="243" source="Bryntyr" target="CuckzBTFO" weight="2" />
+      <edge id="244" source="Bryntyr" target="IMULTRAHARDCORE" weight="5" />
+      <edge id="245" source="Bryntyr" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="246" source="Bryntyr" target="winterfjell" weight="2" />
+      <edge id="247" source="Bryntyr" target="Desay" weight="4" />
+      <edge id="248" source="Bryntyr" target="Chachmaster3000" weight="2" />
+      <edge id="249" source="LibertyIsNotFree" target="daspoulos" weight="2" />
+      <edge id="250" source="LibertyIsNotFree" target="Mamemoo" weight="10" />
+      <edge id="251" source="LibertyIsNotFree" target="danielfromparis" weight="3" />
+      <edge id="252" source="LibertyIsNotFree" target="lnclincoln" weight="2" />
+      <edge id="253" source="LibertyIsNotFree" target="ClericPreston815" weight="2" />
+      <edge id="254" source="LibertyIsNotFree" target="lukesterboi1" weight="3" />
+      <edge id="255" source="LibertyIsNotFree" target="FlavorousSumo" weight="2" />
+      <edge id="256" source="LibertyIsNotFree" target="E_Deplorabus_Unum" weight="2" />
+      <edge id="257" source="LibertyIsNotFree" target="YourGayOpinion" weight="2" />
+      <edge id="258" source="LibertyIsNotFree" target="polisalwaysright2" weight="3" />
+      <edge id="259" source="hopeyesperanza" target="TheGrim1" weight="2" />
+      <edge id="260" source="hopeyesperanza" target="IVIaskerade" weight="2" />
+      <edge id="261" source="CarlotheNord" target="hatredshmatred" weight="2" />
+      <edge id="262" source="CarlotheNord" target="RP_Student" weight="3" />
+      <edge id="263" source="CarlotheNord" target="jakefromstatefarm10" weight="2" />
+      <edge id="264" source="CarlotheNord" target="UA_Hammer" weight="2" />
+      <edge id="265" source="CarlotheNord" target="Al-Shakir" weight="2" />
+      <edge id="266" source="CarlotheNord" target="IMULTRAHARDCORE" weight="4" />
+      <edge id="267" source="CarlotheNord" target="AdolfSuperHitler" weight="5" />
+      <edge id="268" source="CarlotheNord" target="RobotMonkey100" weight="2" />
+      <edge id="269" source="CarlotheNord" target="sixsexsix" weight="2" />
+      <edge id="270" source="CarlotheNord" target="Pastelitomaracucho" weight="3" />
+      <edge id="271" source="CarlotheNord" target="winterfjell" weight="2" />
+      <edge id="272" source="CarlotheNord" target="ThatFeministGirl" weight="6" />
+      <edge id="273" source="CarlotheNord" target="FiveofSwords" weight="2" />
+      <edge id="274" source="CarlotheNord" target="NothingMuchHereToSay" weight="2" />
+      <edge id="275" source="CarlotheNord" target="TheWesternist" weight="2" />
+      <edge id="276" source="CarlotheNord" target="FriedaSpeech" weight="2" />
+      <edge id="277" source="CarlotheNord" target="SocialNationalism" weight="2" />
+      <edge id="278" source="CarlotheNord" target="CAPS_4_FUN" weight="4" />
+      <edge id="279" source="RP-on-AF1" target="DaBigBadGoy" weight="3" />
+      <edge id="280" source="RP-on-AF1" target="_exitus_acta_probat_" weight="2" />
+      <edge id="281" source="RP-on-AF1" target="Penpenkyle27" weight="3" />
+      <edge id="282" source="RP-on-AF1" target="UA_Hammer" weight="2" />
+      <edge id="283" source="RP-on-AF1" target="Mamemoo" weight="11" />
+      <edge id="284" source="RP-on-AF1" target="iamnathandrake" weight="2" />
+      <edge id="285" source="RP-on-AF1" target="BasedBrexitBroker" weight="2" />
+      <edge id="286" source="RP-on-AF1" target="ClericPreston815" weight="2" />
+      <edge id="287" source="RP-on-AF1" target="MWcrazyhorse" weight="3" />
+      <edge id="288" source="RP-on-AF1" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="289" source="RP-on-AF1" target="lukesterboi1" weight="2" />
+      <edge id="290" source="RP-on-AF1" target="AintGotNoTimeFoThis" weight="2" />
+      <edge id="291" source="RP-on-AF1" target="NIMBLE_NAV_FAN" weight="2" />
+      <edge id="292" source="RP-on-AF1" target="TheMomentWeChewSoap" weight="2" />
+      <edge id="293" source="RP-on-AF1" target="polisalwaysright2" weight="4" />
+      <edge id="294" source="RP-on-AF1" target="Muntberg" weight="2" />
+      <edge id="295" source="RP-on-AF1" target="YourGayOpinion" weight="3" />
+      <edge id="296" source="biggerguythanjeb" target="KeKaRoNi" weight="2" />
+      <edge id="297" source="biggerguythanjeb" target="PhessPhi" weight="2" />
+      <edge id="298" source="biggerguythanjeb" target="donkey_democrat" weight="2" />
+      <edge id="299" source="biggerguythanjeb" target="YourLocalMonarchist" weight="2" />
+      <edge id="300" source="notsurewhatyet" target="loveforeternity" weight="2" />
+      <edge id="301" source="majestik6" target="BabyDinosaurHead" weight="2" />
+      <edge id="302" source="JumpyPorcupine" target="not__banksy" weight="2" />
+      <edge id="303" source="JumpyPorcupine" target="diversity_is_racism" weight="11" />
+      <edge id="304" source="Radicle_Pass_A_Fist" target="zeldaisaprude" weight="2" />
+      <edge id="305" source="Disciple_of_Pepe" target="ZweiHollowFangs" weight="2" />
+      <edge id="306" source="Disciple_of_Pepe" target="Luigidagawd" weight="2" />
+      <edge id="307" source="Disciple_of_Pepe" target="MelGibsonDiedForUs" weight="2" />
+      <edge id="308" source="NIMBLE_NAV_FAN" target="Yesofcoursenaturally" weight="3" />
+      <edge id="309" source="NIMBLE_NAV_FAN" target="AintGotNoTimeFoThis" weight="2" />
+      <edge id="310" source="NIMBLE_NAV_FAN" target="Peca_Bokem" weight="3" />
+      <edge id="311" source="NIMBLE_NAV_FAN" target="YourGayOpinion" weight="5" />
+      <edge id="312" source="NIMBLE_NAV_FAN" target="Mamemoo" weight="14" />
+      <edge id="313" source="NIMBLE_NAV_FAN" target="Mintaka7" weight="2" />
+      <edge id="314" source="NIMBLE_NAV_FAN" target="13301" weight="2" />
+      <edge id="315" source="NIMBLE_NAV_FAN" target="Muntberg" weight="3" />
+      <edge id="316" source="NIMBLE_NAV_FAN" target="SeattleSlimeball" weight="2" />
+      <edge id="317" source="NIMBLE_NAV_FAN" target="gigatrap" weight="2" />
+      <edge id="318" source="NIMBLE_NAV_FAN" target="danielfromparis" weight="4" />
+      <edge id="319" source="NIMBLE_NAV_FAN" target="BasedBrexitBroker" weight="5" />
+      <edge id="320" source="NIMBLE_NAV_FAN" target="MWcrazyhorse" weight="4" />
+      <edge id="321" source="NIMBLE_NAV_FAN" target="justshitposterthings" weight="3" />
+      <edge id="322" source="NIMBLE_NAV_FAN" target="RightWingPrankSquads" weight="2" />
+      <edge id="323" source="NIMBLE_NAV_FAN" target="lightfire409" weight="4" />
+      <edge id="324" source="NIMBLE_NAV_FAN" target="ZweiHollowFangs" weight="4" />
+      <edge id="325" source="NIMBLE_NAV_FAN" target="nuesuh" weight="2" />
+      <edge id="326" source="NIMBLE_NAV_FAN" target="Saigunx" weight="3" />
+      <edge id="327" source="NIMBLE_NAV_FAN" target="RedPillDessert" weight="3" />
+      <edge id="328" source="NIMBLE_NAV_FAN" target="polisalwaysright2" weight="3" />
+      <edge id="329" source="Deadfaux" target="Kommando666" weight="2" />
+      <edge id="330" source="FriedaSpeech" target="Pastelitomaracucho" weight="3" />
+      <edge id="331" source="FriedaSpeech" target="daspoulos" weight="2" />
+      <edge id="332" source="FriedaSpeech" target="IMULTRAHARDCORE" weight="7" />
+      <edge id="333" source="FriedaSpeech" target="roflocalypselol" weight="2" />
+      <edge id="334" source="FriedaSpeech" target="SocialNationalism" weight="2" />
+      <edge id="335" source="FriedaSpeech" target="Feathersofaduck" weight="2" />
+      <edge id="336" source="FriedaSpeech" target="texan_Tussler" weight="2" />
+      <edge id="337" source="FriedaSpeech" target="hatredshmatred" weight="2" />
+      <edge id="338" source="FriedaSpeech" target="CAPS_4_FUN" weight="2" />
+      <edge id="339" source="FriedaSpeech" target="smashmarxism" weight="3" />
+      <edge id="340" source="FriedaSpeech" target="ThatFeministGirl" weight="2" />
+      <edge id="341" source="FriedaSpeech" target="Desay" weight="2" />
+      <edge id="342" source="FriedaSpeech" target="RP_Student" weight="2" />
+      <edge id="343" source="FriedaSpeech" target="dorfmanlet" weight="6" />
+      <edge id="344" source="FriedaSpeech" target="AdolfSuperHitler" weight="4" />
+      <edge id="345" source="FriedaSpeech" target="thealtright" weight="3" />
+      <edge id="346" source="trueworldtheory" target="hatredshmatred" weight="2" />
+      <edge id="347" source="trueworldtheory" target="jakefromstatefarm10" weight="3" />
+      <edge id="348" source="trueworldtheory" target="Zechariah_murphy" weight="2" />
+      <edge id="349" source="trueworldtheory" target="IMULTRAHARDCORE" weight="2" />
+      <edge id="350" source="trueworldtheory" target="FiveofSwords" weight="2" />
+      <edge id="351" source="trueworldtheory" target="CAPS_4_FUN" weight="2" />
+      <edge id="352" source="trueworldtheory" target="dorfmanlet" weight="4" />
+      <edge id="353" source="trueworldtheory" target="AdolfSuperHitler" weight="2" />
+      <edge id="354" source="trueworldtheory" target="herewardwakes" weight="2" />
+      <edge id="355" source="Maxwyfe" target="Mamemoo" weight="2" />
+      <edge id="356" source="Maxwyfe" target="Takingcare757" weight="2" />
+      <edge id="357" source="zer0vash" target="NothingMuchHereToSay" weight="2" />
+      <edge id="358" source="Bronn_McClane" target="Catacomb82" weight="2" />
+      <edge id="359" source="Bronn_McClane" target="flossingpancakemix" weight="2" />
+      <edge id="360" source="Bronn_McClane" target="Aoae" weight="3" />
+      <edge id="361" source="Bronn_McClane" target="AFreebornManoftheUSA" weight="2" />
+      <edge id="362" source="Bronn_McClane" target="Doitforthechesty" weight="3" />
+      <edge id="363" source="Bronn_McClane" target="Secretly_psycho" weight="7" />
+      <edge id="364" source="Bronn_McClane" target="maggotbrownie" weight="2" />
+      <edge id="365" source="Bronn_McClane" target="accountingsteve" weight="2" />
+      <edge id="366" source="dogonb" target="Muntberg" weight="2" />
+      <edge id="367" source="Thracius_Augustus" target="_The_Burn_" weight="2" />
+      <edge id="368" source="Thracius_Augustus" target="KeKaRoNi" weight="2" />
+      <edge id="369" source="Thracius_Augustus" target="Yesofcoursenaturally" weight="3" />
+      <edge id="370" source="Thracius_Augustus" target="loveforeternity" weight="2" />
+      <edge id="371" source="Thracius_Augustus" target="Secretly_psycho" weight="3" />
+      <edge id="372" source="Thracius_Augustus" target="MikePenceMakesSense" weight="2" />
+      <edge id="373" source="Thracius_Augustus" target="Pirozhki" weight="2" />
+      <edge id="374" source="billytheid" target="NeedHelpWithExcel" weight="2" />
+      <edge id="375" source="billytheid" target="bigoldgeek" weight="2" />
+      <edge id="376" source="billytheid" target="AFreebornManoftheUSA" weight="2" />
+      <edge id="377" source="redditrat99" target="GoodKingWenceslaus" weight="2" />
+      <edge id="378" source="EssencialToLife" target="Pastelitomaracucho" weight="3" />
+      <edge id="379" source="EssencialToLife" target="RomanovRainstorm" weight="2" />
+      <edge id="380" source="EssencialToLife" target="IMULTRAHARDCORE" weight="6" />
+      <edge id="381" source="EssencialToLife" target="CAPS_4_FUN" weight="2" />
+      <edge id="382" source="EssencialToLife" target="DiglettMcDickNuggets" weight="3" />
+      <edge id="383" source="EssencialToLife" target="dorfmanlet" weight="3" />
+      <edge id="384" source="aivan021" target="The-Chronic" weight="2" />
+      <edge id="385" source="CreeoyStag" target="The-Chronic" weight="2" />
+      <edge id="386" source="FeminismIsAids" target="BasedBrexitBroker" weight="2" />
+      <edge id="387" source="FeminismIsAids" target="MWcrazyhorse" weight="2" />
+      <edge id="388" source="rushmid" target="potato_control" weight="2" />
+      <edge id="389" source="vikingdude3922" target="Mamemoo" weight="2" />
+      <edge id="390" source="vikingdude3922" target="danielfromparis" weight="2" />
+      <edge id="391" source="marlborowe" target="zeldaisaprude" weight="2" />
+      <edge id="392" source="ForgottenMemes" target="G_Petronius" weight="2" />
+      <edge id="393" source="ForgottenMemes" target="ZweiHollowFangs" weight="2" />
+      <edge id="394" source="ForgottenMemes" target="Mamemoo" weight="2" />
+      <edge id="395" source="ForgottenMemes" target="YourGayOpinion" weight="3" />
+      <edge id="396" source="ForgottenMemes" target="BenReilly616" weight="2" />
+      <edge id="397" source="AFreebornManoftheUSA" target="conspiracy_thug" weight="2" />
+      <edge id="398" source="AFreebornManoftheUSA" target="flossingpancakemix" weight="2" />
+      <edge id="399" source="AFreebornManoftheUSA" target="RiidoDorito" weight="2" />
+      <edge id="400" source="AFreebornManoftheUSA" target="NeedHelpWithExcel" weight="2" />
+      <edge id="401" source="AFreebornManoftheUSA" target="Secretly_psycho" weight="2" />
+      <edge id="402" source="gildredge" target="Callooh_Calais" weight="2" />
+      <edge id="403" source="Prometheus444" target="ColorMeOffended" weight="2" />
+      <edge id="404" source="CertifiedRabbi" target="NothingMuchHereToSay" weight="3" />
+      <edge id="405" source="CertifiedRabbi" target="donkey_democrat" weight="2" />
+      <edge id="406" source="CertifiedRabbi" target="twistynip" weight="2" />
+      <edge id="407" source="CertifiedRabbi" target="Lord_Henry_James" weight="2" />
+      <edge id="408" source="seth-the-wizard" target="Secretly_psycho" weight="2" />
+      <edge id="409" source="spunkymarimba" target="RedPillDessert" weight="2" />
+      <edge id="410" source="spunkymarimba" target="conspiracy_thug" weight="2" />
+      <edge id="411" source="Feathersofaduck" target="Pastelitomaracucho" weight="2" />
+      <edge id="412" source="Feathersofaduck" target="SocialNationalism" weight="2" />
+      <edge id="413" source="Feathersofaduck" target="IMULTRAHARDCORE" weight="2" />
+      <edge id="414" source="Feathersofaduck" target="AdolfSuperHitler" weight="2" />
+      <edge id="415" source="Feathersofaduck" target="herewardwakes" weight="2" />
+      <edge id="416" source="fashyshub" target="nuesuh" weight="2" />
+      <edge id="417" source="fashyshub" target="GranAutismo" weight="2" />
+      <edge id="418" source="MaunaLoona" target="loveforeternity" weight="2" />
+      <edge id="419" source="deadfallpro" target="Secretly_psycho" weight="2" />
+      <edge id="420" source="deadfallpro" target="Chachmaster3000" weight="2" />
+      <edge id="421" source="deadfallpro" target="cheerstocrime" weight="2" />
+      <edge id="422" source="XxXtrpstrXxX" target="zeldaisaprude" weight="2" />
+      <edge id="423" source="Dindu_Muffins" target="KeKaRoNi" weight="5" />
+      <edge id="424" source="Dindu_Muffins" target="donkey_democrat" weight="2" />
+      <edge id="425" source="Dindu_Muffins" target="YourLocalMonarchist" weight="3" />
+      <edge id="426" source="Dindu_Muffins" target="satanicpriest13" weight="2" />
+      <edge id="427" source="Dindu_Muffins" target="smookykins" weight="2" />
+      <edge id="428" source="Dindu_Muffins" target="Penpenkyle27" weight="2" />
+      <edge id="429" source="Dindu_Muffins" target="Secretly_psycho" weight="4" />
+      <edge id="430" source="Dindu_Muffins" target="PhessPhi" weight="2" />
+      <edge id="431" source="Dindu_Muffins" target="Arkenskjold" weight="2" />
+      <edge id="432" source="peopleareawful32" target="ZweiHollowFangs" weight="2" />
+      <edge id="433" source="peopleareawful32" target="MidnightTide" weight="3" />
+      <edge id="434" source="prettyflamazing" target="Mamemoo" weight="2" />
+      <edge id="435" source="RobotMonkey100" target="IMULTRAHARDCORE" weight="2" />
+      <edge id="436" source="RobotMonkey100" target="bobsbigboi" weight="2" />
+      <edge id="437" source="RobotMonkey100" target="AdolfSuperHitler" weight="2" />
+      <edge id="438" source="RobotMonkey100" target="Bigdickedelf" weight="3" />
+      <edge id="439" source="RobotMonkey100" target="throwaway__rnd" weight="2" />
+      <edge id="440" source="RobotMonkey100" target="SocialNationalism" weight="2" />
+      <edge id="441" source="Airbornefeline_" target="farooq7" weight="2" />
+      <edge id="442" source="RPDBF" target="justshitposterthings" weight="2" />
+      <edge id="443" source="RPDBF" target="diversity_is_racism" weight="2" />
+      <edge id="444" source="HelperBot_" target="MessisTaxAccountant" weight="2" />
+      <edge id="445" source="HelperBot_" target="diversity_is_racism" weight="2" />
+      <edge id="446" source="HelperBot_" target="ConvertsToMetric" weight="2" />
+      <edge id="447" source="Major_Knibbelwutz" target="Mamemoo" weight="2" />
+      <edge id="448" source="Yesofcoursenaturally" target="arealbigboss" weight="3" />
+      <edge id="449" source="Yesofcoursenaturally" target="danielfromparis" weight="2" />
+      <edge id="450" source="Yesofcoursenaturally" target="TheOtherGorgias" weight="3" />
+      <edge id="451" source="Yesofcoursenaturally" target="Mamemoo" weight="4" />
+      <edge id="452" source="Yesofcoursenaturally" target="spoida" weight="2" />
+      <edge id="453" source="Yesofcoursenaturally" target="_-Long-n-Strong-_" weight="2" />
+      <edge id="454" source="Yesofcoursenaturally" target="NothingMuchHereToSay" weight="2" />
+      <edge id="455" source="Yesofcoursenaturally" target="YourGayOpinion" weight="5" />
+      <edge id="456" source="Yesofcoursenaturally" target="polisalwaysright2" weight="2" />
+      <edge id="457" source="edessasail" target="IMULTRAHARDCORE" weight="2" />
+      <edge id="458" source="yourxleftxshoe" target="maggotbrownie" weight="2" />
+      <edge id="459" source="Gidgetpants" target="YourGayOpinion" weight="2" />
+      <edge id="460" source="VerdantFuppe" target="deadponydroid" weight="2" />
+      <edge id="461" source="Kraken_Head" target="Pastelitomaracucho" weight="5" />
+      <edge id="462" source="Kraken_Head" target="IMULTRAHARDCORE" weight="4" />
+      <edge id="463" source="Kraken_Head" target="NothingMuchHereToSay" weight="2" />
+      <edge id="464" source="Kraken_Head" target="CAPS_4_FUN" weight="5" />
+      <edge id="465" source="Elufson" target="donkey_democrat" weight="2" />
+      <edge id="466" source="Elufson" target="thealtright" weight="5" />
+      <edge id="467" source="DalekSeconds" target="RexAnglorumSaxonum" weight="3" />
+      <edge id="468" source="DalekSeconds" target="ICameHereToRead" weight="3" />
+      <edge id="469" source="bustedcougar" target="The_Ketum_Man" weight="3" />
+      <edge id="470" source="Lord_Henry_James" target="donkey_democrat" weight="4" />
+      <edge id="471" source="Lord_Henry_James" target="smookykins" weight="2" />
+      <edge id="472" source="Lord_Henry_James" target="The-Chronic" weight="5" />
+      <edge id="473" source="AverageWredditor" target="zeldaisaprude" weight="3" />
+      <edge id="474" source="AverageWredditor" target="CuckzBTFO" weight="2" />
+      <edge id="475" source="AverageWredditor" target="conspiracy_thug" weight="2" />
+      <edge id="476" source="AverageWredditor" target="not__banksy" weight="2" />
+      <edge id="477" source="AverageWredditor" target="Luigidagawd" weight="2" />
+      <edge id="478" source="AverageWredditor" target="highprofittrade" weight="2" />
+      <edge id="479" source="AverageWredditor" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="480" source="AverageWredditor" target="puffykilled2pac" weight="2" />
+      <edge id="481" source="AverageWredditor" target="texan_Tussler" weight="2" />
+      <edge id="482" source="AverageWredditor" target="Wrath_of_Trump" weight="2" />
+      <edge id="483" source="AverageWredditor" target="Chachmaster3000" weight="3" />
+      <edge id="484" source="Me_Tarzan_You_Gains" target="Wraith_GraveSpell" weight="2" />
+      <edge id="485" source="Me_Tarzan_You_Gains" target="swoleder" weight="2" />
+      <edge id="486" source="TitaniumDragon" target="BrodyKraut" weight="2" />
+      <edge id="487" source="Psycho_Logically" target="arealbigboss" weight="2" />
+      <edge id="488" source="Psycho_Logically" target="gavroche18" weight="2" />
+      <edge id="489" source="Psycho_Logically" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="490" source="Psycho_Logically" target="lightfire409" weight="2" />
+      <edge id="491" source="Psycho_Logically" target="Chachmaster3000" weight="3" />
+      <edge id="492" source="IVIaskerade" target="timothy1982" weight="2" />
+      <edge id="493" source="IVIaskerade" target="sneakpeekbot" weight="2" />
+      <edge id="494" source="IVIaskerade" target="Maikowski2" weight="2" />
+      <edge id="495" source="IVIaskerade" target="smookykins" weight="2" />
+      <edge id="496" source="IVIaskerade" target="SoupTyrant" weight="3" />
+      <edge id="497" source="IVIaskerade" target="Like_Onyx" weight="2" />
+      <edge id="498" source="IVIaskerade" target="YourGayOpinion" weight="4" />
+      <edge id="499" source="Gingor" target="exit_eu" weight="4" />
+      <edge id="500" source="Gingor" target="gavroche18" weight="2" />
+      <edge id="501" source="MRA-automatron-2kb" target="sgt_squirrel" weight="2" />
+      <edge id="502" source="MRA-automatron-2kb" target="_exitus_acta_probat_" weight="3" />
+      <edge id="503" source="MRA-automatron-2kb" target="Saintmyname" weight="3" />
+      <edge id="504" source="MRA-automatron-2kb" target="Coluphid" weight="8" />
+      <edge id="505" source="MRA-automatron-2kb" target="Helikzhan" weight="2" />
+      <edge id="506" source="MRA-automatron-2kb" target="lonewolf-chicago" weight="5" />
+      <edge id="507" source="kolarov133" target="Curveball14" weight="3" />
+      <edge id="508" source="Cambck2" target="prollyjerkingoff" weight="2" />
+      <edge id="509" source="Wheynweed" target="gigatrap" weight="3" />
+      <edge id="510" source="Wheynweed" target="black_brotha" weight="2" />
+      <edge id="511" source="lonewolf-chicago" target="Coluphid" weight="7" />
+      <edge id="512" source="lonewolf-chicago" target="eja_cool8" weight="2" />
+      <edge id="513" source="lonewolf-chicago" target="FalloutFan2" weight="2" />
+      <edge id="514" source="ne99ne" target="black_brotha" weight="2" />
+      <edge id="515" source="ne99ne" target="Psychotrip" weight="2" />
+      <edge id="516" source="ne99ne" target="highprofittrade" weight="5" />
+      <edge id="517" source="ne99ne" target="Doitforthechesty" weight="2" />
+      <edge id="518" source="ne99ne" target="Ximitar" weight="2" />
+      <edge id="519" source="ne99ne" target="potato_control" weight="2" />
+      <edge id="520" source="jefeperro" target="donkey_democrat" weight="2" />
+      <edge id="521" source="jefeperro" target="Mamemoo" weight="4" />
+      <edge id="522" source="jefeperro" target="danielfromparis" weight="4" />
+      <edge id="523" source="jefeperro" target="satanicpriest13" weight="2" />
+      <edge id="524" source="jefeperro" target="MWcrazyhorse" weight="2" />
+      <edge id="525" source="jefeperro" target="lightfire409" weight="2" />
+      <edge id="526" source="jefeperro" target="Wrath_of_Trump" weight="2" />
+      <edge id="527" source="jefeperro" target="YourGayOpinion" weight="3" />
+      <edge id="528" source="laslpalp" target="not__banksy" weight="2" />
+      <edge id="529" source="laslpalp" target="ColorMeOffended" weight="2" />
+      <edge id="530" source="laslpalp" target="RedPillDessert" weight="2" />
+      <edge id="531" source="hypnobearcoup" target="KeKaRoNi" weight="2" />
+      <edge id="532" source="hypnobearcoup" target="Secretly_psycho" weight="2" />
+      <edge id="533" source="TheFleetmaster" target="YourLocalMonarchist" weight="2" />
+      <edge id="534" source="TheFleetmaster" target="Secretly_psycho" weight="2" />
+      <edge id="535" source="ARandomBlackDude" target="conspiracy_thug" weight="2" />
+      <edge id="536" source="libertyant" target="Mamemoo" weight="3" />
+      <edge id="537" source="libertyant" target="BasedBrexitBroker" weight="3" />
+      <edge id="538" source="libertyant" target="HeilHitla" weight="2" />
+      <edge id="539" source="libertyant" target="MWcrazyhorse" weight="4" />
+      <edge id="540" source="libertyant" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="541" source="xfLyFPS" target="LeDrop" weight="2" />
+      <edge id="542" source="warkin" target="smookykins" weight="2" />
+      <edge id="543" source="DustinTWind" target="Thrownitawaytho" weight="2" />
+      <edge id="544" source="BadNerfAgent" target="Mamemoo" weight="3" />
+      <edge id="545" source="BadNerfAgent" target="jakefromstatefarm10" weight="2" />
+      <edge id="546" source="BadNerfAgent" target="polisalwaysright2" weight="2" />
+      <edge id="547" source="dr_warlock" target="Heathcliff--" weight="2" />
+      <edge id="548" source="Scyyn" target="patrickkcassells" weight="2" />
+      <edge id="549" source="tysonmoorewood" target="The-Chronic" weight="2" />
+      <edge id="550" source="Maikowski2" target="_juicy_thighs_" weight="2" />
+      <edge id="551" source="Maikowski2" target="loveforeternity" weight="3" />
+      <edge id="552" source="leithz6" target="zeldaisaprude" weight="2" />
+      <edge id="553" source="leithz6" target="n0c1gar" weight="2" />
+      <edge id="554" source="leithz6" target="Catacomb82" weight="2" />
+      <edge id="555" source="leithz6" target="conspiracy_thug" weight="2" />
+      <edge id="556" source="leithz6" target="Luigidagawd" weight="2" />
+      <edge id="557" source="leithz6" target="bigassbananaboat" weight="2" />
+      <edge id="558" source="leithz6" target="Apotheosis276" weight="2" />
+      <edge id="559" source="leithz6" target="Chachmaster3000" weight="3" />
+      <edge id="560" source="therightstuffdotbiz" target="Mamemoo" weight="2" />
+      <edge id="561" source="therightstuffdotbiz" target="polisalwaysright2" weight="2" />
+      <edge id="562" source="Lemvig42" target="cheekybeeboo" weight="4" />
+      <edge id="563" source="MelGibsonDiedForUs" target="Mamemoo" weight="5" />
+      <edge id="564" source="MelGibsonDiedForUs" target="danielfromparis" weight="2" />
+      <edge id="565" source="MelGibsonDiedForUs" target="lukesterboi1" weight="3" />
+      <edge id="566" source="MelGibsonDiedForUs" target="TwitterToStreamable" weight="2" />
+      <edge id="567" source="MelGibsonDiedForUs" target="YourGayOpinion" weight="3" />
+      <edge id="568" source="MelGibsonDiedForUs" target="polisalwaysright2" weight="4" />
+      <edge id="569" source="Lord_Newbie" target="nuesuh" weight="2" />
+      <edge id="570" source="Lord_Newbie" target="arealbigboss" weight="2" />
+      <edge id="571" source="Lord_Newbie" target="not__banksy" weight="4" />
+      <edge id="572" source="Lord_Newbie" target="danielfromparis" weight="2" />
+      <edge id="573" source="Lord_Newbie" target="lukesterboi1" weight="2" />
+      <edge id="574" source="Lord_Newbie" target="13301" weight="2" />
+      <edge id="575" source="Lord_Newbie" target="Saigunx" weight="3" />
+      <edge id="576" source="Lord_Newbie" target="Thrownitawaytho" weight="2" />
+      <edge id="577" source="Lord_Newbie" target="Penpenkyle27" weight="2" />
+      <edge id="578" source="Lord_Newbie" target="YourGayOpinion" weight="3" />
+      <edge id="579" source="Lord_Newbie" target="polisalwaysright2" weight="2" />
+      <edge id="580" source="daspoulos" target="Mamemoo" weight="2" />
+      <edge id="581" source="daspoulos" target="Pastelitomaracucho" weight="2" />
+      <edge id="582" source="daspoulos" target="herewardwakes" weight="2" />
+      <edge id="583" source="ICameHereToRead" target="Sly_Meme" weight="2" />
+      <edge id="584" source="ICameHereToRead" target="RexAnglorumSaxonum" weight="13" />
+      <edge id="585" source="ICameHereToRead" target="DiglettMcDickNuggets" weight="4" />
+      <edge id="586" source="BrodyKraut" target="donkey_democrat" weight="2" />
+      <edge id="587" source="BrodyKraut" target="Mamemoo" weight="3" />
+      <edge id="588" source="BrodyKraut" target="BenReilly616" weight="4" />
+      <edge id="589" source="BrodyKraut" target="highprofittrade" weight="2" />
+      <edge id="590" source="BrodyKraut" target="Saigunx" weight="2" />
+      <edge id="591" source="BrodyKraut" target="Neuro_Skeptic" weight="2" />
+      <edge id="592" source="One_Winged_Rook" target="Mamemoo" weight="3" />
+      <edge id="593" source="One_Winged_Rook" target="BasedBrexitBroker" weight="3" />
+      <edge id="594" source="One_Winged_Rook" target="Thrownitawaytho" weight="2" />
+      <edge id="595" source="One_Winged_Rook" target="potato_control" weight="2" />
+      <edge id="596" source="Northman93" target="IMULTRAHARDCORE" weight="3" />
+      <edge id="597" source="vkrr" target="Bigdickedelf" weight="2" />
+      <edge id="598" source="Hedonistbro" target="YourGayOpinion" weight="2" />
+      <edge id="599" source="winterfjell" target="Pastelitomaracucho" weight="2" />
+      <edge id="600" source="winterfjell" target="Penpenkyle27" weight="2" />
+      <edge id="601" source="winterfjell" target="IMULTRAHARDCORE" weight="6" />
+      <edge id="602" source="winterfjell" target="CAPS_4_FUN" weight="2" />
+      <edge id="603" source="winterfjell" target="ThatFeministGirl" weight="2" />
+      <edge id="604" source="winterfjell" target="throwaway__rnd" weight="4" />
+      <edge id="605" source="winterfjell" target="dorfmanlet" weight="2" />
+      <edge id="606" source="winterfjell" target="herewardwakes" weight="2" />
+      <edge id="607" source="VIIIMan" target="smookykins" weight="2" />
+      <edge id="608" source="_juicy_thighs_" target="black_brotha" weight="2" />
+      <edge id="609" source="_juicy_thighs_" target="Psychotrip" weight="2" />
+      <edge id="610" source="_juicy_thighs_" target="conspiracy_thug" weight="2" />
+      <edge id="611" source="_juicy_thighs_" target="Doitforthechesty" weight="2" />
+      <edge id="612" source="_juicy_thighs_" target="NeedHelpWithExcel" weight="2" />
+      <edge id="613" source="_juicy_thighs_" target="huggiesdsc" weight="2" />
+      <edge id="614" source="_juicy_thighs_" target="gabrielshekelstein" weight="2" />
+      <edge id="615" source="_juicy_thighs_" target="Auctoritate" weight="2" />
+      <edge id="616" source="_juicy_thighs_" target="verdatum" weight="2" />
+      <edge id="617" source="_juicy_thighs_" target="Chachmaster3000" weight="4" />
+      <edge id="618" source="ctrlaltlama" target="Mamemoo" weight="2" />
+      <edge id="619" source="BabyDinosaurHead" target="zeldaisaprude" weight="2" />
+      <edge id="620" source="BabyDinosaurHead" target="PUTINsTiTs" weight="2" />
+      <edge id="621" source="BabyDinosaurHead" target="joeroganpodcastfan" weight="2" />
+      <edge id="622" source="BabyDinosaurHead" target="Aoae" weight="2" />
+      <edge id="623" source="BabyDinosaurHead" target="TwitterToStreamable" weight="5" />
+      <edge id="624" source="BabyDinosaurHead" target="Doitforthechesty" weight="3" />
+      <edge id="625" source="BabyDinosaurHead" target="brmlb" weight="8" />
+      <edge id="626" source="BabyDinosaurHead" target="Chachmaster3000" weight="2" />
+      <edge id="627" source="FlavorousSumo" target="Curveball14" weight="2" />
+      <edge id="628" source="FlavorousSumo" target="thinker43" weight="2" />
+      <edge id="629" source="FlavorousSumo" target="Mamemoo" weight="5" />
+      <edge id="630" source="FlavorousSumo" target="BasedBrexitBroker" weight="3" />
+      <edge id="631" source="FlavorousSumo" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="632" source="FlavorousSumo" target="Saigunx" weight="3" />
+      <edge id="633" source="FlavorousSumo" target="polisalwaysright2" weight="2" />
+      <edge id="634" source="FlavorousSumo" target="ottois2" weight="2" />
+      <edge id="635" source="FlavorousSumo" target="YourGayOpinion" weight="2" />
+      <edge id="636" source="FlavorousSumo" target="thealtright" weight="2" />
+      <edge id="637" source="trump420kush" target="donkey_democrat" weight="2" />
+      <edge id="638" source="trump420kush" target="Mamemoo" weight="5" />
+      <edge id="639" source="trump420kush" target="danielfromparis" weight="2" />
+      <edge id="640" source="trump420kush" target="MWcrazyhorse" weight="3" />
+      <edge id="641" source="trump420kush" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="642" source="trump420kush" target="Peca_Bokem" weight="2" />
+      <edge id="643" source="trump420kush" target="Littledipper310" weight="2" />
+      <edge id="644" source="trump420kush" target="polisalwaysright2" weight="3" />
+      <edge id="645" source="WyvernGuildOfAlbion" target="IMULTRAHARDCORE" weight="2" />
+      <edge id="646" source="Welderhelp" target="slippery_people" weight="3" />
+      <edge id="647" source="Welderhelp" target="Bigdickedelf" weight="3" />
+      <edge id="648" source="Psychotrip" target="donkey_democrat" weight="2" />
+      <edge id="649" source="Psychotrip" target="conspiracy_thug" weight="2" />
+      <edge id="650" source="Psychotrip" target="Secretly_psycho" weight="2" />
+      <edge id="651" source="LelRathlor28" target="BenReilly616" weight="2" />
+      <edge id="652" source="LelRathlor28" target="KeKaRoNi" weight="2" />
+      <edge id="653" source="LelRathlor28" target="lukesterboi1" weight="3" />
+      <edge id="654" source="LelRathlor28" target="Reversevagina" weight="2" />
+      <edge id="655" source="thepathelesstraveled" target="Pastelitomaracucho" weight="2" />
+      <edge id="656" source="thepathelesstraveled" target="donkey_democrat" weight="2" />
+      <edge id="657" source="thepathelesstraveled" target="UA_Hammer" weight="2" />
+      <edge id="658" source="thepathelesstraveled" target="IMULTRAHARDCORE" weight="2" />
+      <edge id="659" source="thepathelesstraveled" target="FiveofSwords" weight="3" />
+      <edge id="660" source="thepathelesstraveled" target="A_Mathematician" weight="2" />
+      <edge id="661" source="thepathelesstraveled" target="NothingMuchHereToSay" weight="5" />
+      <edge id="662" source="thepathelesstraveled" target="herewardwakes" weight="2" />
+      <edge id="663" source="thepathelesstraveled" target="throwaway__rnd" weight="2" />
+      <edge id="664" source="thepathelesstraveled" target="thealtright" weight="4" />
+      <edge id="665" source="thepathelesstraveled" target="AdolfSuperHitler" weight="2" />
+      <edge id="666" source="thepathelesstraveled" target="CAPS_4_FUN" weight="3" />
+      <edge id="667" source="thepathelesstraveled" target="The-Chronic" weight="3" />
+      <edge id="668" source="ColorMeOffended" target="BasedBrexitBroker" weight="2" />
+      <edge id="669" source="ColorMeOffended" target="Mamemoo" weight="2" />
+      <edge id="670" source="ColorMeOffended" target="Nerf86" weight="2" />
+      <edge id="671" source="ColorMeOffended" target="Raspberries88" weight="2" />
+      <edge id="672" source="ColorMeOffended" target="Ximitar" weight="2" />
+      <edge id="673" source="FiveofSwords" target="Pastelitomaracucho" weight="4" />
+      <edge id="674" source="FiveofSwords" target="UA_Hammer" weight="3" />
+      <edge id="675" source="FiveofSwords" target="IMULTRAHARDCORE" weight="7" />
+      <edge id="676" source="FiveofSwords" target="SocialNationalism" weight="2" />
+      <edge id="677" source="FiveofSwords" target="CAPS_4_FUN" weight="5" />
+      <edge id="678" source="FiveofSwords" target="smashmarxism" weight="3" />
+      <edge id="679" source="FiveofSwords" target="ThatFeministGirl" weight="6" />
+      <edge id="680" source="FiveofSwords" target="DiglettMcDickNuggets" weight="2" />
+      <edge id="681" source="FiveofSwords" target="herewardwakes" weight="3" />
+      <edge id="682" source="FiveofSwords" target="throwaway__rnd" weight="4" />
+      <edge id="683" source="FiveofSwords" target="RP_Student" weight="2" />
+      <edge id="684" source="FiveofSwords" target="AdolfSuperHitler" weight="3" />
+      <edge id="685" source="FiveofSwords" target="DeutschAmericana" weight="2" />
+      <edge id="686" source="Lazerbagels" target="Secretly_psycho" weight="3" />
+      <edge id="687" source="BedrockPerson" target="DaBigBadGoy" weight="2" />
+      <edge id="688" source="BedrockPerson" target="Chachmaster3000" weight="2" />
+      <edge id="689" source="Mamemoo" target="jakefromstatefarm10" weight="2" />
+      <edge id="690" source="Mamemoo" target="7yrlrkr" weight="5" />
+      <edge id="691" source="Mamemoo" target="barkusmuhl" weight="2" />
+      <edge id="692" source="Mamemoo" target="HeilHitla" weight="4" />
+      <edge id="693" source="Mamemoo" target="robertml" weight="2" />
+      <edge id="694" source="Mamemoo" target="recon_johnny" weight="4" />
+      <edge id="695" source="Mamemoo" target="sizzletron" weight="5" />
+      <edge id="696" source="Mamemoo" target="DaBigBadGoy" weight="7" />
+      <edge id="697" source="Mamemoo" target="jamesthunder88" weight="2" />
+      <edge id="698" source="Mamemoo" target="ClericPreston815" weight="5" />
+      <edge id="699" source="Mamemoo" target="satanicpriest13" weight="4" />
+      <edge id="700" source="Mamemoo" target="AintGotNoTimeFoThis" weight="6" />
+      <edge id="701" source="Mamemoo" target="Thrownitawaytho" weight="6" />
+      <edge id="702" source="Mamemoo" target="GuapoBermejo" weight="2" />
+      <edge id="703" source="Mamemoo" target="arealbigboss" weight="9" />
+      <edge id="704" source="Mamemoo" target="13301" weight="6" />
+      <edge id="705" source="Mamemoo" target="TITANUPMAN" weight="2" />
+      <edge id="706" source="Mamemoo" target="gigatrap" weight="2" />
+      <edge id="707" source="Mamemoo" target="GodEmperorPePethe2nd" weight="4" />
+      <edge id="708" source="Mamemoo" target="kinglyIII" weight="2" />
+      <edge id="709" source="Mamemoo" target="danielfromparis" weight="22" />
+      <edge id="710" source="Mamemoo" target="MWcrazyhorse" weight="12" />
+      <edge id="711" source="Mamemoo" target="roccogillybean" weight="3" />
+      <edge id="712" source="Mamemoo" target="Jaewok" weight="2" />
+      <edge id="713" source="Mamemoo" target="ottois2" weight="5" />
+      <edge id="714" source="Mamemoo" target="Saigunx" weight="10" />
+      <edge id="715" source="Mamemoo" target="RedPillDessert" weight="6" />
+      <edge id="716" source="Mamemoo" target="Wrath_of_Trump" weight="4" />
+      <edge id="717" source="Mamemoo" target="polisalwaysright2" weight="33" />
+      <edge id="718" source="Mamemoo" target="FalmerbloodElixir" weight="3" />
+      <edge id="719" source="Mamemoo" target="randomshoe" weight="3" />
+      <edge id="720" source="Mamemoo" target="Peca_Bokem" weight="10" />
+      <edge id="721" source="Mamemoo" target="thinker43" weight="4" />
+      <edge id="722" source="Mamemoo" target="YourGayOpinion" weight="29" />
+      <edge id="723" source="Mamemoo" target="_Decimation" weight="3" />
+      <edge id="724" source="Mamemoo" target="Lizard_Of_Ozz" weight="20" />
+      <edge id="725" source="Mamemoo" target="SeattleSlimeball" weight="2" />
+      <edge id="726" source="Mamemoo" target="Trumpdonald17" weight="2" />
+      <edge id="727" source="Mamemoo" target="Porphyrogennetos" weight="3" />
+      <edge id="728" source="Mamemoo" target="justshitposterthings" weight="6" />
+      <edge id="729" source="Mamemoo" target="RightWingPrankSquads" weight="3" />
+      <edge id="730" source="Mamemoo" target="lukesterboi1" weight="9" />
+      <edge id="731" source="Mamemoo" target="diversity_is_racism" weight="3" />
+      <edge id="732" source="Mamemoo" target="salemblopblop" weight="5" />
+      <edge id="733" source="Mamemoo" target="alown" weight="7" />
+      <edge id="734" source="Mamemoo" target="sgt_squirrel" weight="5" />
+      <edge id="735" source="Mamemoo" target="donkey_democrat" weight="7" />
+      <edge id="736" source="Mamemoo" target="lnclincoln" weight="3" />
+      <edge id="737" source="Mamemoo" target="_fuckallofyou_" weight="2" />
+      <edge id="738" source="Mamemoo" target="CuckzBTFO" weight="6" />
+      <edge id="739" source="Mamemoo" target="Mintaka7" weight="3" />
+      <edge id="740" source="Mamemoo" target="Cosine_X" weight="2" />
+      <edge id="741" source="Mamemoo" target="aristideau" weight="2" />
+      <edge id="742" source="Mamemoo" target="Penpenkyle27" weight="4" />
+      <edge id="743" source="Mamemoo" target="E_Deplorabus_Unum" weight="3" />
+      <edge id="744" source="Mamemoo" target="Muntberg" weight="10" />
+      <edge id="745" source="Mamemoo" target="DontDoH" weight="2" />
+      <edge id="746" source="Mamemoo" target="BasedBrexitBroker" weight="8" />
+      <edge id="747" source="Mamemoo" target="conativejj" weight="2" />
+      <edge id="748" source="Mamemoo" target="lightfire409" weight="5" />
+      <edge id="749" source="Mamemoo" target="ZweiHollowFangs" weight="4" />
+      <edge id="750" source="Mamemoo" target="nuesuh" weight="4" />
+      <edge id="751" source="Mamemoo" target="A_Mathematician" weight="2" />
+      <edge id="752" source="Mamemoo" target="BenReilly616" weight="5" />
+      <edge id="753" source="Mamemoo" target="AndForgetMe" weight="2" />
+      <edge id="754" source="Mamemoo" target="Belrox" weight="2" />
+      <edge id="755" source="YourLocalMonarchist" target="_The_Burn_" weight="2" />
+      <edge id="756" source="YourLocalMonarchist" target="Arkenskjold" weight="3" />
+      <edge id="757" source="YourLocalMonarchist" target="Catacomb82" weight="2" />
+      <edge id="758" source="YourLocalMonarchist" target="MongolianCluster" weight="2" />
+      <edge id="759" source="YourLocalMonarchist" target="KeKaRoNi" weight="6" />
+      <edge id="760" source="YourLocalMonarchist" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="761" source="YourLocalMonarchist" target="paradoxpolitics" weight="2" />
+      <edge id="762" source="YourLocalMonarchist" target="cheerstocrime" weight="2" />
+      <edge id="763" source="YourLocalMonarchist" target="Auphor_Phaksache" weight="4" />
+      <edge id="764" source="YourLocalMonarchist" target="Secretly_psycho" weight="7" />
+      <edge id="765" source="YourLocalMonarchist" target="dorfmanlet" weight="2" />
+      <edge id="766" source="YourLocalMonarchist" target="PhessPhi" weight="2" />
+      <edge id="767" source="Pirozhki" target="_The_Burn_" weight="4" />
+      <edge id="768" source="Pirozhki" target="KeKaRoNi" weight="3" />
+      <edge id="769" source="Pirozhki" target="donkey_democrat" weight="4" />
+      <edge id="770" source="Pirozhki" target="CuckzBTFO" weight="4" />
+      <edge id="771" source="Pirozhki" target="Auphor_Phaksache" weight="3" />
+      <edge id="772" source="Pirozhki" target="Penpenkyle27" weight="6" />
+      <edge id="773" source="Pirozhki" target="Secretly_psycho" weight="4" />
+      <edge id="774" source="GodEmperorPePethe2nd" target="_The_Burn_" weight="2" />
+      <edge id="775" source="GodEmperorPePethe2nd" target="nuesuh" weight="2" />
+      <edge id="776" source="GodEmperorPePethe2nd" target="donkey_democrat" weight="3" />
+      <edge id="777" source="GodEmperorPePethe2nd" target="danielfromparis" weight="5" />
+      <edge id="778" source="GodEmperorPePethe2nd" target="ClericPreston815" weight="4" />
+      <edge id="779" source="GodEmperorPePethe2nd" target="13301" weight="2" />
+      <edge id="780" source="GodEmperorPePethe2nd" target="smookykins" weight="2" />
+      <edge id="781" source="GodEmperorPePethe2nd" target="randomshoe" weight="2" />
+      <edge id="782" source="GodEmperorPePethe2nd" target="Secretly_psycho" weight="2" />
+      <edge id="783" source="GodEmperorPePethe2nd" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="784" source="GodEmperorPePethe2nd" target="maggotbrownie" weight="3" />
+      <edge id="785" source="GodEmperorPePethe2nd" target="YourGayOpinion" weight="9" />
+      <edge id="786" source="GodEmperorPePethe2nd" target="polisalwaysright2" weight="2" />
+      <edge id="787" source="MWcrazyhorse" target="FalmerbloodElixir" weight="2" />
+      <edge id="788" source="MWcrazyhorse" target="the_sky_god15" weight="2" />
+      <edge id="789" source="MWcrazyhorse" target="iamnathandrake" weight="3" />
+      <edge id="790" source="MWcrazyhorse" target="7yrlrkr" weight="2" />
+      <edge id="791" source="MWcrazyhorse" target="Thrownitawaytho" weight="2" />
+      <edge id="792" source="MWcrazyhorse" target="Peca_Bokem" weight="2" />
+      <edge id="793" source="MWcrazyhorse" target="thinker43" weight="2" />
+      <edge id="794" source="MWcrazyhorse" target="YourGayOpinion" weight="6" />
+      <edge id="795" source="MWcrazyhorse" target="donkey_democrat" weight="4" />
+      <edge id="796" source="MWcrazyhorse" target="CuckzBTFO" weight="4" />
+      <edge id="797" source="MWcrazyhorse" target="HeilHitla" weight="2" />
+      <edge id="798" source="MWcrazyhorse" target="sandernista_4_TRUMP" weight="2" />
+      <edge id="799" source="MWcrazyhorse" target="_fuckallofyou_" weight="2" />
+      <edge id="800" source="MWcrazyhorse" target="TwitterToStreamable" weight="3" />
+      <edge id="801" source="MWcrazyhorse" target="Muntberg" weight="2" />
+      <edge id="802" source="MWcrazyhorse" target="danielfromparis" weight="2" />
+      <edge id="803" source="MWcrazyhorse" target="BasedBrexitBroker" weight="3" />
+      <edge id="804" source="MWcrazyhorse" target="DaBigBadGoy" weight="3" />
+      <edge id="805" source="MWcrazyhorse" target="greyhunter4" weight="2" />
+      <edge id="806" source="MWcrazyhorse" target="nuesuh" weight="2" />
+      <edge id="807" source="MWcrazyhorse" target="BenReilly616" weight="5" />
+      <edge id="808" source="MWcrazyhorse" target="Shiyya27" weight="3" />
+      <edge id="809" source="MWcrazyhorse" target="Wrath_of_Trump" weight="2" />
+      <edge id="810" source="MWcrazyhorse" target="polisalwaysright2" weight="3" />
+      <edge id="811" source="1KnowNothing" target="lukesterboi1" weight="2" />
+      <edge id="812" source="Diarrhea_Van_Frank" target="CuckzBTFO" weight="2" />
+      <edge id="813" source="ottois2" target="salemblopblop" weight="2" />
+      <edge id="814" source="ottois2" target="Muntberg" weight="2" />
+      <edge id="815" source="angryguy4444" target="Secretly_psycho" weight="2" />
+      <edge id="816" source="None_And_Nothing" target="thealtright" weight="2" />
+      <edge id="817" source="JupiterPluto" target="Pastelitomaracucho" weight="2" />
+      <edge id="818" source="JupiterPluto" target="CAPS_4_FUN" weight="3" />
+      <edge id="819" source="BestRedditGoy" target="FizzInMyAsheHole" weight="2" />
+      <edge id="820" source="BestRedditGoy" target="The-Chronic" weight="2" />
+      <edge id="821" source="Wrath_of_Trump" target="zeldaisaprude" weight="3" />
+      <edge id="822" source="Wrath_of_Trump" target="DaBigBadGoy" weight="4" />
+      <edge id="823" source="Wrath_of_Trump" target="_Decimation" weight="2" />
+      <edge id="824" source="Wrath_of_Trump" target="danielfromparis" weight="2" />
+      <edge id="825" source="Wrath_of_Trump" target="polisalwaysright2" weight="3" />
+      <edge id="826" source="Wrath_of_Trump" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="827" source="Wrath_of_Trump" target="Urban1095" weight="2" />
+      <edge id="828" source="Wrath_of_Trump" target="Baboon_Mindset" weight="2" />
+      <edge id="829" source="Wrath_of_Trump" target="swallowsummer" weight="3" />
+      <edge id="830" source="Wrath_of_Trump" target="alown" weight="2" />
+      <edge id="831" source="Wrath_of_Trump" target="YourGayOpinion" weight="3" />
+      <edge id="832" source="Wrath_of_Trump" target="Chachmaster3000" weight="2" />
+      <edge id="833" source="polisalwaysright2" target="sgt_squirrel" weight="2" />
+      <edge id="834" source="polisalwaysright2" target="AintGotNoTimeFoThis" weight="2" />
+      <edge id="835" source="polisalwaysright2" target="randomshoe" weight="3" />
+      <edge id="836" source="polisalwaysright2" target="Peca_Bokem" weight="2" />
+      <edge id="837" source="polisalwaysright2" target="thinker43" weight="2" />
+      <edge id="838" source="polisalwaysright2" target="YourGayOpinion" weight="27" />
+      <edge id="839" source="polisalwaysright2" target="arealbigboss" weight="4" />
+      <edge id="840" source="polisalwaysright2" target="Lizard_Of_Ozz" weight="3" />
+      <edge id="841" source="polisalwaysright2" target="loveforeternity" weight="2" />
+      <edge id="842" source="polisalwaysright2" target="Muntberg" weight="4" />
+      <edge id="843" source="polisalwaysright2" target="danielfromparis" weight="9" />
+      <edge id="844" source="polisalwaysright2" target="justshitposterthings" weight="2" />
+      <edge id="845" source="polisalwaysright2" target="recon_johnny" weight="2" />
+      <edge id="846" source="polisalwaysright2" target="lukesterboi1" weight="2" />
+      <edge id="847" source="polisalwaysright2" target="DaBigBadGoy" weight="4" />
+      <edge id="848" source="polisalwaysright2" target="CuckzBTFO" weight="2" />
+      <edge id="849" source="polisalwaysright2" target="BenReilly616" weight="2" />
+      <edge id="850" source="polisalwaysright2" target="salemblopblop" weight="2" />
+      <edge id="851" source="polisalwaysright2" target="Belrox" weight="2" />
+      <edge id="852" source="polisalwaysright2" target="alown" weight="4" />
+      <edge id="853" source="donkeyponkey" target="Luigidagawd" weight="3" />
+      <edge id="854" source="maikcollos" target="Folkisch" weight="2" />
+      <edge id="855" source="maikcollos" target="DiglettMcDickNuggets" weight="2" />
+      <edge id="856" source="iamnathandrake" target="G_Petronius" weight="2" />
+      <edge id="857" source="iamnathandrake" target="danielfromparis" weight="2" />
+      <edge id="858" source="iamnathandrake" target="BasedBrexitBroker" weight="2" />
+      <edge id="859" source="iamnathandrake" target="ZweiHollowFangs" weight="2" />
+      <edge id="860" source="iamnathandrake" target="YourGayOpinion" weight="4" />
+      <edge id="861" source="MUTHAFATHAGENTLEMAN" target="lightfire409" weight="2" />
+      <edge id="862" source="MUTHAFATHAGENTLEMAN" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="863" source="Folkisch" target="RexAnglorumSaxonum" weight="4" />
+      <edge id="864" source="Folkisch" target="SocialNationalism" weight="2" />
+      <edge id="865" source="Folkisch" target="CAPS_4_FUN" weight="2" />
+      <edge id="866" source="Folkisch" target="DiglettMcDickNuggets" weight="3" />
+      <edge id="867" source="randomshoe" target="danielfromparis" weight="2" />
+      <edge id="868" source="Peca_Bokem" target="donkey_democrat" weight="5" />
+      <edge id="869" source="Peca_Bokem" target="arealbigboss" weight="3" />
+      <edge id="870" source="Peca_Bokem" target="danielfromparis" weight="6" />
+      <edge id="871" source="Peca_Bokem" target="BasedBrexitBroker" weight="3" />
+      <edge id="872" source="Peca_Bokem" target="ClericPreston815" weight="2" />
+      <edge id="873" source="Peca_Bokem" target="PutinKills" weight="2" />
+      <edge id="874" source="Peca_Bokem" target="sizzletron" weight="2" />
+      <edge id="875" source="Peca_Bokem" target="YourGayOpinion" weight="6" />
+      <edge id="876" source="The_Scrotum_Tickler" target="The-Chronic" weight="3" />
+      <edge id="877" source="thinker43" target="danielfromparis" weight="3" />
+      <edge id="878" source="thinker43" target="highprofittrade" weight="2" />
+      <edge id="879" source="thinker43" target="YourGayOpinion" weight="3" />
+      <edge id="880" source="SocialNationalism" target="Pastelitomaracucho" weight="2" />
+      <edge id="881" source="SocialNationalism" target="Desay" weight="3" />
+      <edge id="882" source="SocialNationalism" target="sixsexsix" weight="2" />
+      <edge id="883" source="SocialNationalism" target="hatredshmatred" weight="3" />
+      <edge id="884" source="SocialNationalism" target="pbj91738" weight="2" />
+      <edge id="885" source="SocialNationalism" target="smashmarxism" weight="3" />
+      <edge id="886" source="SocialNationalism" target="GeraldoSemPavor" weight="2" />
+      <edge id="887" source="SocialNationalism" target="throwaway__rnd" weight="7" />
+      <edge id="888" source="SocialNationalism" target="rasore" weight="2" />
+      <edge id="889" source="SocialNationalism" target="AdolfSuperHitler" weight="6" />
+      <edge id="890" source="SocialNationalism" target="DeAristoi" weight="3" />
+      <edge id="891" source="SocialNationalism" target="IMULTRAHARDCORE" weight="5" />
+      <edge id="892" source="SocialNationalism" target="ThatFeministGirl" weight="3" />
+      <edge id="893" source="SocialNationalism" target="CAPS_4_FUN" weight="9" />
+      <edge id="894" source="SocialNationalism" target="RP_Student" weight="2" />
+      <edge id="895" source="SocialNationalism" target="NothingMuchHereToSay" weight="3" />
+      <edge id="896" source="SocialNationalism" target="DiglettMcDickNuggets" weight="4" />
+      <edge id="897" source="YourGayOpinion" target="jakefromstatefarm10" weight="4" />
+      <edge id="898" source="YourGayOpinion" target="donkey_democrat" weight="3" />
+      <edge id="899" source="YourGayOpinion" target="lnclincoln" weight="2" />
+      <edge id="900" source="YourGayOpinion" target="lukesterboi1" weight="6" />
+      <edge id="901" source="YourGayOpinion" target="BrokeMike" weight="2" />
+      <edge id="902" source="YourGayOpinion" target="HeilHitla" weight="4" />
+      <edge id="903" source="YourGayOpinion" target="RyanMAGA" weight="6" />
+      <edge id="904" source="YourGayOpinion" target="Lizard_Of_Ozz" weight="4" />
+      <edge id="905" source="YourGayOpinion" target="Callooh_Calais" weight="2" />
+      <edge id="906" source="YourGayOpinion" target="G_Petronius" weight="3" />
+      <edge id="907" source="YourGayOpinion" target="_fuckallofyou_" weight="3" />
+      <edge id="908" source="YourGayOpinion" target="StopTalkingOK" weight="2" />
+      <edge id="909" source="YourGayOpinion" target="CuckzBTFO" weight="5" />
+      <edge id="910" source="YourGayOpinion" target="malthuswaswrong" weight="3" />
+      <edge id="911" source="YourGayOpinion" target="Eddard_Karstark" weight="2" />
+      <edge id="912" source="YourGayOpinion" target="13301" weight="3" />
+      <edge id="913" source="YourGayOpinion" target="TwitterToStreamable" weight="2" />
+      <edge id="914" source="YourGayOpinion" target="E_Deplorabus_Unum" weight="3" />
+      <edge id="915" source="YourGayOpinion" target="Muntberg" weight="13" />
+      <edge id="916" source="YourGayOpinion" target="justshitposterthings" weight="4" />
+      <edge id="917" source="YourGayOpinion" target="Littledipper310" weight="2" />
+      <edge id="918" source="YourGayOpinion" target="Belrox" weight="3" />
+      <edge id="919" source="YourGayOpinion" target="UA_Hammer" weight="6" />
+      <edge id="920" source="YourGayOpinion" target="conspiracy_thug" weight="2" />
+      <edge id="921" source="YourGayOpinion" target="danielfromparis" weight="11" />
+      <edge id="922" source="YourGayOpinion" target="Wraith_GraveSpell" weight="12" />
+      <edge id="923" source="YourGayOpinion" target="BasedBrexitBroker" weight="8" />
+      <edge id="924" source="YourGayOpinion" target="DaBigBadGoy" weight="5" />
+      <edge id="925" source="YourGayOpinion" target="RageAgainstThis" weight="2" />
+      <edge id="926" source="YourGayOpinion" target="conativejj" weight="3" />
+      <edge id="927" source="YourGayOpinion" target="sizzletron" weight="3" />
+      <edge id="928" source="YourGayOpinion" target="roccogillybean" weight="2" />
+      <edge id="929" source="YourGayOpinion" target="TastelessBuild" weight="2" />
+      <edge id="930" source="YourGayOpinion" target="lightfire409" weight="2" />
+      <edge id="931" source="YourGayOpinion" target="Niekisch" weight="2" />
+      <edge id="932" source="YourGayOpinion" target="diversity_is_racism" weight="2" />
+      <edge id="933" source="YourGayOpinion" target="zeldaisaprude" weight="2" />
+      <edge id="934" source="YourGayOpinion" target="ZweiHollowFangs" weight="2" />
+      <edge id="935" source="YourGayOpinion" target="nuesuh" weight="3" />
+      <edge id="936" source="YourGayOpinion" target="EternallyMiffed" weight="2" />
+      <edge id="937" source="YourGayOpinion" target="arealbigboss" weight="4" />
+      <edge id="938" source="YourGayOpinion" target="Stuntman119" weight="2" />
+      <edge id="939" source="YourGayOpinion" target="BenReilly616" weight="3" />
+      <edge id="940" source="YourGayOpinion" target="ClericPreston815" weight="6" />
+      <edge id="941" source="YourGayOpinion" target="Saigunx" weight="5" />
+      <edge id="942" source="YourGayOpinion" target="AndForgetMe" weight="4" />
+      <edge id="943" source="YourGayOpinion" target="RedPillDessert" weight="2" />
+      <edge id="944" source="YourGayOpinion" target="Auphor_Phaksache" weight="3" />
+      <edge id="945" source="YourGayOpinion" target="alown" weight="4" />
+      <edge id="946" source="YourGayOpinion" target="TheHeroReditDeserves" weight="3" />
+      <edge id="947" source="YourGayOpinion" target="GuapoBermejo" weight="2" />
+      <edge id="948" source="thealtright" target="Pastelitomaracucho" weight="4" />
+      <edge id="949" source="thealtright" target="donkey_democrat" weight="8" />
+      <edge id="950" source="thealtright" target="Zechariah_murphy" weight="3" />
+      <edge id="951" source="thealtright" target="BadMawDota" weight="3" />
+      <edge id="952" source="thealtright" target="DrLieberstein" weight="2" />
+      <edge id="953" source="thealtright" target="_The_Burn_" weight="2" />
+      <edge id="954" source="thealtright" target="A_Mathematician" weight="3" />
+      <edge id="955" source="thealtright" target="Svenarchy" weight="2" />
+      <edge id="956" source="thealtright" target="GeraldoSemPavor" weight="2" />
+      <edge id="957" source="thealtright" target="NothingMuchHereToSay" weight="9" />
+      <edge id="958" source="thealtright" target="IMULTRAHARDCORE" weight="4" />
+      <edge id="959" source="thealtright" target="MortalSisyphus" weight="2" />
+      <edge id="960" source="thealtright" target="AntiHasbaraUnit" weight="3" />
+      <edge id="961" source="thealtright" target="myndzha" weight="2" />
+      <edge id="962" source="thealtright" target="The-Chronic" weight="11" />
+      <edge id="963" source="thealtright" target="nuesuh" weight="2" />
+      <edge id="964" source="thealtright" target="Cybiu5" weight="2" />
+      <edge id="965" source="thealtright" target="Coluphid" weight="3" />
+      <edge id="966" source="thealtright" target="smookykins" weight="4" />
+      <edge id="967" source="thealtright" target="Secretly_psycho" weight="2" />
+      <edge id="968" source="thealtright" target="dorfmanlet" weight="2" />
+      <edge id="969" source="thealtright" target="herewardwakes" weight="3" />
+      <edge id="970" source="AbbotTheCabbot" target="zeldaisaprude" weight="2" />
+      <edge id="971" source="TentaculoidBubblegum" target="PhessPhi" weight="2" />
+      <edge id="972" source="TentaculoidBubblegum" target="Penpenkyle27" weight="2" />
+      <edge id="973" source="spoida" target="Bigdickedelf" weight="2" />
+      <edge id="974" source="spoida" target="nuesuh" weight="2" />
+      <edge id="975" source="IndigoCup" target="loveforeternity" weight="2" />
+      <edge id="976" source="IndigoCup" target="nuesuh" weight="3" />
+      <edge id="977" source="IndigoCup" target="arealbigboss" weight="2" />
+      <edge id="978" source="IndigoCup" target="Bocaj1000" weight="2" />
+      <edge id="979" source="CivilityBeDamned" target="iceboob" weight="2" />
+      <edge id="980" source="IMULTRAHARDCORE" target="Pastelitomaracucho" weight="19" />
+      <edge id="981" source="IMULTRAHARDCORE" target="jakefromstatefarm10" weight="4" />
+      <edge id="982" source="IMULTRAHARDCORE" target="throwaway__rnd" weight="6" />
+      <edge id="983" source="IMULTRAHARDCORE" target="RomanovRainstorm" weight="2" />
+      <edge id="984" source="IMULTRAHARDCORE" target="sixsexsix" weight="6" />
+      <edge id="985" source="IMULTRAHARDCORE" target="lukesterboi1" weight="7" />
+      <edge id="986" source="IMULTRAHARDCORE" target="Desay" weight="6" />
+      <edge id="987" source="IMULTRAHARDCORE" target="hatredshmatred" weight="5" />
+      <edge id="988" source="IMULTRAHARDCORE" target="_The_Burn_" weight="3" />
+      <edge id="989" source="IMULTRAHARDCORE" target="FalloutFan2" weight="3" />
+      <edge id="990" source="IMULTRAHARDCORE" target="Zechariah_murphy" weight="2" />
+      <edge id="991" source="IMULTRAHARDCORE" target="GeraldoSemPavor" weight="3" />
+      <edge id="992" source="IMULTRAHARDCORE" target="NothingMuchHereToSay" weight="9" />
+      <edge id="993" source="IMULTRAHARDCORE" target="AdolfSuperHitler" weight="5" />
+      <edge id="994" source="IMULTRAHARDCORE" target="UA_Hammer" weight="3" />
+      <edge id="995" source="IMULTRAHARDCORE" target="MortalSisyphus" weight="3" />
+      <edge id="996" source="IMULTRAHARDCORE" target="ThatFeministGirl" weight="16" />
+      <edge id="997" source="IMULTRAHARDCORE" target="smashmarxism" weight="7" />
+      <edge id="998" source="IMULTRAHARDCORE" target="CAPS_4_FUN" weight="21" />
+      <edge id="999" source="IMULTRAHARDCORE" target="RP_Student" weight="9" />
+      <edge id="1000" source="IMULTRAHARDCORE" target="Al-Shakir" weight="2" />
+      <edge id="1001" source="IMULTRAHARDCORE" target="BenReilly616" weight="2" />
+      <edge id="1002" source="IMULTRAHARDCORE" target="DeAristoi" weight="3" />
+      <edge id="1003" source="IMULTRAHARDCORE" target="DiglettMcDickNuggets" weight="7" />
+      <edge id="1004" source="IMULTRAHARDCORE" target="dorfmanlet" weight="9" />
+      <edge id="1005" source="IMULTRAHARDCORE" target="herewardwakes" weight="10" />
+      <edge id="1006" source="Aoae" target="Catacomb82" weight="2" />
+      <edge id="1007" source="Aoae" target="farooq7" weight="2" />
+      <edge id="1008" source="Aoae" target="Kalki_Filth" weight="2" />
+      <edge id="1009" source="Aoae" target="smookykins" weight="2" />
+      <edge id="1010" source="Aoae" target="Chachmaster3000" weight="2" />
+      <edge id="1011" source="MortalSisyphus" target="CAPS_4_FUN" weight="3" />
+      <edge id="1012" source="StrongShallInherit" target="lnclincoln" weight="2" />
+      <edge id="1013" source="ThatFeministGirl" target="Pastelitomaracucho" weight="5" />
+      <edge id="1014" source="ThatFeministGirl" target="jakefromstatefarm10" weight="3" />
+      <edge id="1015" source="ThatFeministGirl" target="lukesterboi1" weight="2" />
+      <edge id="1016" source="ThatFeministGirl" target="Desay" weight="2" />
+      <edge id="1017" source="ThatFeministGirl" target="bassline8" weight="2" />
+      <edge id="1018" source="ThatFeministGirl" target="hatredshmatred" weight="3" />
+      <edge id="1019" source="ThatFeministGirl" target="smashmarxism" weight="6" />
+      <edge id="1020" source="ThatFeministGirl" target="DeAristoi" weight="3" />
+      <edge id="1021" source="ThatFeministGirl" target="GeraldoSemPavor" weight="3" />
+      <edge id="1022" source="ThatFeministGirl" target="throwaway__rnd" weight="2" />
+      <edge id="1023" source="ThatFeministGirl" target="AdolfSuperHitler" weight="6" />
+      <edge id="1024" source="ThatFeministGirl" target="UA_Hammer" weight="3" />
+      <edge id="1025" source="ThatFeministGirl" target="NothingMuchHereToSay" weight="4" />
+      <edge id="1026" source="ThatFeministGirl" target="CAPS_4_FUN" weight="11" />
+      <edge id="1027" source="ThatFeministGirl" target="RP_Student" weight="8" />
+      <edge id="1028" source="ThatFeministGirl" target="TheWesternist" weight="4" />
+      <edge id="1029" source="ThatFeministGirl" target="returnofgreatgibbon" weight="2" />
+      <edge id="1030" source="ThatFeministGirl" target="DiglettMcDickNuggets" weight="2" />
+      <edge id="1031" source="ThatFeministGirl" target="herewardwakes" weight="3" />
+      <edge id="1032" source="calm-forest" target="HillarysDoctorAMA" weight="2" />
+      <edge id="1033" source="Dr_HoaxArthurWilmoth" target="Bigdickedelf" weight="6" />
+      <edge id="1034" source="Dr_HoaxArthurWilmoth" target="nuesuh" weight="3" />
+      <edge id="1035" source="Dr_HoaxArthurWilmoth" target="highprofittrade" weight="3" />
+      <edge id="1036" source="Dr_HoaxArthurWilmoth" target="Chachmaster3000" weight="2" />
+      <edge id="1037" source="MidnightTide" target="ZweiHollowFangs" weight="5" />
+      <edge id="1038" source="MidnightTide" target="BlondFaith" weight="2" />
+      <edge id="1039" source="MidnightTide" target="sizzletron" weight="3" />
+      <edge id="1040" source="MidnightTide" target="prollyjerkingoff" weight="3" />
+      <edge id="1041" source="DarthPun" target="ZweiHollowFangs" weight="2" />
+      <edge id="1042" source="DarthPun" target="FalmerbloodElixir" weight="2" />
+      <edge id="1043" source="Novickk" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1044" source="EternallyMiffed" target="loveforeternity" weight="2" />
+      <edge id="1045" source="EdwardRMeow" target="highprofittrade" weight="2" />
+      <edge id="1046" source="thedreamwalker182" target="Secretly_psycho" weight="2" />
+      <edge id="1047" source="salemblopblop" target="BasedBrexitBroker" weight="3" />
+      <edge id="1048" source="salemblopblop" target="lukesterboi1" weight="2" />
+      <edge id="1049" source="dissdigg" target="FizzInMyAsheHole" weight="2" />
+      <edge id="1050" source="Auphor_Phaksache" target="_The_Burn_" weight="2" />
+      <edge id="1051" source="Auphor_Phaksache" target="Secretly_psycho" weight="3" />
+      <edge id="1052" source="opalescex" target="Captainmorphine" weight="2" />
+      <edge id="1053" source="opalescex" target="NeedHelpWithExcel" weight="2" />
+      <edge id="1054" source="LoudTsu" target="highprofittrade" weight="2" />
+      <edge id="1055" source="LoudTsu" target="Apotheosis276" weight="2" />
+      <edge id="1056" source="Icanus" target="BenReilly616" weight="2" />
+      <edge id="1057" source="Icanus" target="KeKaRoNi" weight="2" />
+      <edge id="1058" source="Icanus" target="diversity_is_racism" weight="3" />
+      <edge id="1059" source="Icanus" target="lightfire409" weight="2" />
+      <edge id="1060" source="elljawa" target="AnorexicBuddha" weight="2" />
+      <edge id="1061" source="huggiesdsc" target="diversity_is_racism" weight="2" />
+      <edge id="1062" source="huggiesdsc" target="Catacomb82" weight="2" />
+      <edge id="1063" source="huggiesdsc" target="conspiracy_thug" weight="2" />
+      <edge id="1064" source="Elodrian" target="BasedBrexitBroker" weight="2" />
+      <edge id="1065" source="PhessPhi" target="KeKaRoNi" weight="4" />
+      <edge id="1066" source="PhessPhi" target="Penpenkyle27" weight="2" />
+      <edge id="1067" source="_fuckallofyou_" target="conativejj" weight="2" />
+      <edge id="1068" source="DeutschAmericana" target="AdolfSuperHitler" weight="3" />
+      <edge id="1069" source="DeutschAmericana" target="Bigdickedelf" weight="3" />
+      <edge id="1070" source="DeutschAmericana" target="CAPS_4_FUN" weight="2" />
+      <edge id="1071" source="DeutschAmericana" target="smashmarxism" weight="4" />
+      <edge id="1072" source="Absant" target="RexAnglorumSaxonum" weight="2" />
+      <edge id="1073" source="gavroche18" target="highprofittrade" weight="2" />
+      <edge id="1074" source="gavroche18" target="black_brotha" weight="3" />
+      <edge id="1075" source="gavroche18" target="not__banksy" weight="2" />
+      <edge id="1076" source="gavroche18" target="BasedBrexitBroker" weight="2" />
+      <edge id="1077" source="gavroche18" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1078" source="gavroche18" target="ZweiHollowFangs" weight="2" />
+      <edge id="1079" source="gavroche18" target="Jorpba_Lord_of_Slime" weight="2" />
+      <edge id="1080" source="Mintaka7" target="RedPillDessert" weight="2" />
+      <edge id="1081" source="loveforeternity" target="Curveball14" weight="10" />
+      <edge id="1082" source="loveforeternity" target="Hitlers-Happy-HR-dpt" weight="3" />
+      <edge id="1083" source="loveforeternity" target="CuckzBTFO" weight="2" />
+      <edge id="1084" source="loveforeternity" target="LeftismLowestCommonD" weight="2" />
+      <edge id="1085" source="loveforeternity" target="Ferenix2" weight="2" />
+      <edge id="1086" source="loveforeternity" target="nuesuh" weight="3" />
+      <edge id="1087" source="loveforeternity" target="SnakesoverEagles" weight="9" />
+      <edge id="1088" source="loveforeternity" target="MasterofForks" weight="2" />
+      <edge id="1089" source="loveforeternity" target="DeAristoi" weight="3" />
+      <edge id="1090" source="loveforeternity" target="Bitcoin_Chief" weight="2" />
+      <edge id="1091" source="loveforeternity" target="NothingMuchHereToSay" weight="3" />
+      <edge id="1092" source="loveforeternity" target="ChopperIndacar" weight="2" />
+      <edge id="1093" source="loveforeternity" target="pandoramoonlight" weight="7" />
+      <edge id="1094" source="NothingMuchHereToSay" target="Pastelitomaracucho" weight="6" />
+      <edge id="1095" source="NothingMuchHereToSay" target="jakefromstatefarm10" weight="3" />
+      <edge id="1096" source="NothingMuchHereToSay" target="donkey_democrat" weight="4" />
+      <edge id="1097" source="NothingMuchHereToSay" target="Zechariah_murphy" weight="3" />
+      <edge id="1098" source="NothingMuchHereToSay" target="lukesterboi1" weight="5" />
+      <edge id="1099" source="NothingMuchHereToSay" target="_The_Burn_" weight="2" />
+      <edge id="1100" source="NothingMuchHereToSay" target="A_Mathematician" weight="4" />
+      <edge id="1101" source="NothingMuchHereToSay" target="arwg1" weight="2" />
+      <edge id="1102" source="NothingMuchHereToSay" target="TwitterToStreamable" weight="2" />
+      <edge id="1103" source="NothingMuchHereToSay" target="GeraldoSemPavor" weight="2" />
+      <edge id="1104" source="NothingMuchHereToSay" target="throwaway__rnd" weight="2" />
+      <edge id="1105" source="NothingMuchHereToSay" target="AdolfSuperHitler" weight="3" />
+      <edge id="1106" source="NothingMuchHereToSay" target="UA_Hammer" weight="2" />
+      <edge id="1107" source="NothingMuchHereToSay" target="AntiHasbaraUnit" weight="2" />
+      <edge id="1108" source="NothingMuchHereToSay" target="The-Chronic" weight="11" />
+      <edge id="1109" source="NothingMuchHereToSay" target="CAPS_4_FUN" weight="7" />
+      <edge id="1110" source="NothingMuchHereToSay" target="LeftismLowestCommonD" weight="2" />
+      <edge id="1111" source="NothingMuchHereToSay" target="SurfTheKaliYuga" weight="2" />
+      <edge id="1112" source="NothingMuchHereToSay" target="nuesuh" weight="2" />
+      <edge id="1113" source="NothingMuchHereToSay" target="arealbigboss" weight="2" />
+      <edge id="1114" source="NothingMuchHereToSay" target="Cybiu5" weight="3" />
+      <edge id="1115" source="NothingMuchHereToSay" target="smookykins" weight="2" />
+      <edge id="1116" source="NothingMuchHereToSay" target="dorfmanlet" weight="2" />
+      <edge id="1117" source="RyanMAGA" target="Pastelitomaracucho" weight="2" />
+      <edge id="1118" source="TwitterToStreamable" target="conspiracy_thug" weight="2" />
+      <edge id="1119" source="TwitterToStreamable" target="Loverofdance" weight="2" />
+      <edge id="1120" source="TwitterToStreamable" target="PlasmaRiver" weight="2" />
+      <edge id="1121" source="TwitterToStreamable" target="lnclincoln" weight="2" />
+      <edge id="1122" source="TwitterToStreamable" target="MessisTaxAccountant" weight="5" />
+      <edge id="1123" source="TwitterToStreamable" target="Muntberg" weight="2" />
+      <edge id="1124" source="DiglettMcDickNuggets" target="Pastelitomaracucho" weight="7" />
+      <edge id="1125" source="DiglettMcDickNuggets" target="Tsaryan_" weight="2" />
+      <edge id="1126" source="DiglettMcDickNuggets" target="Sly_Meme" weight="2" />
+      <edge id="1127" source="DiglettMcDickNuggets" target="sixsexsix" weight="2" />
+      <edge id="1128" source="DiglettMcDickNuggets" target="smashmarxism" weight="4" />
+      <edge id="1129" source="DiglettMcDickNuggets" target="throwaway__rnd" weight="2" />
+      <edge id="1130" source="DiglettMcDickNuggets" target="CAPS_4_FUN" weight="6" />
+      <edge id="1131" source="DiglettMcDickNuggets" target="RP_Student" weight="3" />
+      <edge id="1132" source="DiglettMcDickNuggets" target="RexAnglorumSaxonum" weight="15" />
+      <edge id="1133" source="DiglettMcDickNuggets" target="dorfmanlet" weight="5" />
+      <edge id="1134" source="DiglettMcDickNuggets" target="herewardwakes" weight="4" />
+      <edge id="1135" source="AdolfHarden" target="not__banksy" weight="2" />
+      <edge id="1136" source="LeftismLowestCommonD" target="Bigdickedelf" weight="2" />
+      <edge id="1137" source="Catacomb82" target="Pastelitomaracucho" weight="3" />
+      <edge id="1138" source="Catacomb82" target="zeldaisaprude" weight="2" />
+      <edge id="1139" source="Catacomb82" target="ruthekangaroo" weight="2" />
+      <edge id="1140" source="Catacomb82" target="Secretly_psycho" weight="3" />
+      <edge id="1141" source="Catacomb82" target="Chachmaster3000" weight="2" />
+      <edge id="1142" source="Nerf86" target="Ebola_Spreader" weight="2" />
+      <edge id="1143" source="Lord_Belmont" target="ZweiHollowFangs" weight="2" />
+      <edge id="1144" source="Lord_Belmont" target="prollyjerkingoff" weight="2" />
+      <edge id="1145" source="Axumata" target="highprofittrade" weight="2" />
+      <edge id="1146" source="AndForgetMe" target="Saigunx" weight="2" />
+      <edge id="1147" source="AndForgetMe" target="RedPillDessert" weight="2" />
+      <edge id="1148" source="TheLegend_NeverDies" target="RexAnglorumSaxonum" weight="2" />
+      <edge id="1149" source="jakefromstatefarm10" target="bobsbigboi" weight="2" />
+      <edge id="1150" source="jakefromstatefarm10" target="lukesterboi1" weight="2" />
+      <edge id="1151" source="jakefromstatefarm10" target="hatredshmatred" weight="3" />
+      <edge id="1152" source="jakefromstatefarm10" target="_The_Burn_" weight="2" />
+      <edge id="1153" source="jakefromstatefarm10" target="Lizard_Of_Ozz" weight="3" />
+      <edge id="1154" source="jakefromstatefarm10" target="smashmarxism" weight="2" />
+      <edge id="1155" source="jakefromstatefarm10" target="danielfromparis" weight="2" />
+      <edge id="1156" source="jakefromstatefarm10" target="CtrlAltFetus" weight="2" />
+      <edge id="1157" source="jakefromstatefarm10" target="AdolfSuperHitler" weight="3" />
+      <edge id="1158" source="jakefromstatefarm10" target="UA_Hammer" weight="2" />
+      <edge id="1159" source="jakefromstatefarm10" target="conspiracy_thug" weight="2" />
+      <edge id="1160" source="jakefromstatefarm10" target="highprofittrade" weight="2" />
+      <edge id="1161" source="jakefromstatefarm10" target="CAPS_4_FUN" weight="3" />
+      <edge id="1162" source="jakefromstatefarm10" target="schnazzmizzles" weight="2" />
+      <edge id="1163" source="jakefromstatefarm10" target="EiUx0col" weight="2" />
+      <edge id="1164" source="jakefromstatefarm10" target="dorfmanlet" weight="2" />
+      <edge id="1165" source="jakefromstatefarm10" target="Chachmaster3000" weight="3" />
+      <edge id="1166" source="jakefromstatefarm10" target="herewardwakes" weight="3" />
+      <edge id="1167" source="_exitus_acta_probat_" target="lnclincoln" weight="2" />
+      <edge id="1168" source="_exitus_acta_probat_" target="roccogillybean" weight="2" />
+      <edge id="1169" source="black_brotha" target="KeKaRoNi" weight="3" />
+      <edge id="1170" source="black_brotha" target="highprofittrade" weight="5" />
+      <edge id="1171" source="black_brotha" target="waynebradysworld" weight="2" />
+      <edge id="1172" source="black_brotha" target="BlondFaith" weight="2" />
+      <edge id="1173" source="black_brotha" target="Baboon_Mindset" weight="3" />
+      <edge id="1174" source="black_brotha" target="Bocaj1000" weight="3" />
+      <edge id="1175" source="black_brotha" target="Jesus_Harry_Christ" weight="2" />
+      <edge id="1176" source="black_brotha" target="Doitforthechesty" weight="5" />
+      <edge id="1177" source="black_brotha" target="cheerstocrime" weight="2" />
+      <edge id="1178" source="black_brotha" target="Callooh_Calais" weight="2" />
+      <edge id="1179" source="black_brotha" target="mcslats12345" weight="3" />
+      <edge id="1180" source="black_brotha" target="Secretly_psycho" weight="4" />
+      <edge id="1181" source="black_brotha" target="Chachmaster3000" weight="3" />
+      <edge id="1182" source="black_brotha" target="not__banksy" weight="3" />
+      <edge id="1183" source="RomanovRainstorm" target="dorfmanlet" weight="2" />
+      <edge id="1184" source="RomanovRainstorm" target="CAPS_4_FUN" weight="2" />
+      <edge id="1185" source="the_sky_god15" target="highprofittrade" weight="5" />
+      <edge id="1186" source="the_sky_god15" target="Lizard_Of_Ozz" weight="3" />
+      <edge id="1187" source="the_sky_god15" target="Thrownitawaytho" weight="2" />
+      <edge id="1188" source="the_sky_god15" target="RedPillDessert" weight="2" />
+      <edge id="1189" source="the_sky_god15" target="CtrlAltFetus" weight="2" />
+      <edge id="1190" source="CannedBrains" target="Penpenkyle27" weight="2" />
+      <edge id="1191" source="prollyjerkingoff" target="ZweiHollowFangs" weight="3" />
+      <edge id="1192" source="prollyjerkingoff" target="BlondFaith" weight="4" />
+      <edge id="1193" source="sixsexsix" target="RP_Student" weight="2" />
+      <edge id="1194" source="sixsexsix" target="UA_Hammer" weight="2" />
+      <edge id="1195" source="sixsexsix" target="Desay" weight="2" />
+      <edge id="1196" source="sixsexsix" target="CAPS_4_FUN" weight="3" />
+      <edge id="1197" source="sixsexsix" target="dorfmanlet" weight="3" />
+      <edge id="1198" source="sixsexsix" target="throwaway__rnd" weight="2" />
+      <edge id="1199" source="patrickkcassells" target="Secretly_psycho" weight="2" />
+      <edge id="1200" source="Viva_La_Reddit" target="swallowsummer" weight="2" />
+      <edge id="1201" source="swoleder" target="bad_pattern10" weight="2" />
+      <edge id="1202" source="swoleder" target="KeKaRoNi" weight="2" />
+      <edge id="1203" source="swoleder" target="smookykins" weight="3" />
+      <edge id="1204" source="rasore" target="CAPS_4_FUN" weight="2" />
+      <edge id="1205" source="DutchHarBro" target="DaBigBadGoy" weight="2" />
+      <edge id="1206" source="DutchHarBro" target="Luigidagawd" weight="2" />
+      <edge id="1207" source="DutchHarBro" target="Wraith_GraveSpell" weight="2" />
+      <edge id="1208" source="DutchHarBro" target="highprofittrade" weight="2" />
+      <edge id="1209" source="DutchHarBro" target="Thrownitawaytho" weight="2" />
+      <edge id="1210" source="DutchHarBro" target="alown" weight="2" />
+      <edge id="1211" source="conspiracy_thug" target="nuesuh" weight="2" />
+      <edge id="1212" source="conspiracy_thug" target="CuckzBTFO" weight="2" />
+      <edge id="1213" source="conspiracy_thug" target="farooq7" weight="2" />
+      <edge id="1214" source="conspiracy_thug" target="AntiHasbaraUnit" weight="2" />
+      <edge id="1215" source="conspiracy_thug" target="Beardedcap" weight="2" />
+      <edge id="1216" source="conspiracy_thug" target="Secretly_psycho" weight="2" />
+      <edge id="1217" source="conspiracy_thug" target="smookykins" weight="5" />
+      <edge id="1218" source="conspiracy_thug" target="Bigdickedelf" weight="2" />
+      <edge id="1219" source="conspiracy_thug" target="Wraith_GraveSpell" weight="2" />
+      <edge id="1220" source="UgUgImDyingYouIdiot" target="BasedBrexitBroker" weight="2" />
+      <edge id="1221" source="UgUgImDyingYouIdiot" target="martinc31415" weight="2" />
+      <edge id="1222" source="Bocaj1000" target="zeldaisaprude" weight="2" />
+      <edge id="1223" source="Bocaj1000" target="Jesus_Harry_Christ" weight="2" />
+      <edge id="1224" source="Bocaj1000" target="Chachmaster3000" weight="3" />
+      <edge id="1225" source="recon_johnny" target="Bigdickedelf" weight="4" />
+      <edge id="1226" source="recon_johnny" target="donkey_democrat" weight="2" />
+      <edge id="1227" source="WafflesAndMarbles" target="RepoMan9130" weight="2" />
+      <edge id="1228" source="Urban1095" target="Chachmaster3000" weight="4" />
+      <edge id="1229" source="VagMaster69_4life" target="AntiHasbaraUnit" weight="2" />
+      <edge id="1230" source="VagMaster69_4life" target="The-Chronic" weight="2" />
+      <edge id="1231" source="Kalki_Filth" target="Chachmaster3000" weight="2" />
+      <edge id="1232" source="maggotbrownie" target="Secretly_psycho" weight="3" />
+      <edge id="1233" source="AbortusLuciferum" target="Lugodi" weight="2" />
+      <edge id="1234" source="FizzInMyAsheHole" target="G_Petronius" weight="10" />
+      <edge id="1235" source="FizzInMyAsheHole" target="BenReilly616" weight="2" />
+      <edge id="1236" source="FizzInMyAsheHole" target="Coluphid" weight="4" />
+      <edge id="1237" source="FizzInMyAsheHole" target="Bigdickedelf" weight="5" />
+      <edge id="1238" source="zipfern" target="Bigdickedelf" weight="2" />
+      <edge id="1239" source="zipfern" target="sizzletron" weight="2" />
+      <edge id="1240" source="mcslats12345" target="Chachmaster3000" weight="4" />
+      <edge id="1241" source="mcslats12345" target="highprofittrade" weight="2" />
+      <edge id="1242" source="mcslats12345" target="Secretly_psycho" weight="2" />
+      <edge id="1243" source="Ximitar" target="Luigidagawd" weight="2" />
+      <edge id="1244" source="Ximitar" target="MongolianCluster" weight="3" />
+      <edge id="1245" source="Ximitar" target="highprofittrade" weight="2" />
+      <edge id="1246" source="Ximitar" target="potato_control" weight="2" />
+      <edge id="1247" source="Littledipper310" target="Belrox" weight="2" />
+      <edge id="1248" source="SnakesoverEagles" target="pandoramoonlight" weight="4" />
+      <edge id="1249" source="SnakesoverEagles" target="Curveball14" weight="7" />
+      <edge id="1250" source="ConvertsToMetric" target="Shrugfacebot" weight="3" />
+      <edge id="1251" source="ConvertsToMetric" target="sneakpeekbot" weight="3" />
+      <edge id="1252" source="_The_Burn_" target="RP_Student" weight="2" />
+      <edge id="1253" source="_The_Burn_" target="KeKaRoNi" weight="7" />
+      <edge id="1254" source="_The_Burn_" target="donkey_democrat" weight="3" />
+      <edge id="1255" source="_The_Burn_" target="satanicpriest13" weight="2" />
+      <edge id="1256" source="_The_Burn_" target="Doitforthechesty" weight="3" />
+      <edge id="1257" source="_The_Burn_" target="wikipediareader" weight="3" />
+      <edge id="1258" source="_The_Burn_" target="Hippieremover" weight="3" />
+      <edge id="1259" source="_The_Burn_" target="CAPS_4_FUN" weight="2" />
+      <edge id="1260" source="_The_Burn_" target="Penpenkyle27" weight="2" />
+      <edge id="1261" source="_The_Burn_" target="Secretly_psycho" weight="7" />
+      <edge id="1262" source="FalloutFan2" target="sgt_squirrel" weight="2" />
+      <edge id="1263" source="FalloutFan2" target="CAPS_4_FUN" weight="3" />
+      <edge id="1264" source="arealbigboss" target="nuesuh" weight="2" />
+      <edge id="1265" source="arealbigboss" target="BasedBrexitBroker" weight="2" />
+      <edge id="1266" source="arealbigboss" target="A_Mathematician" weight="3" />
+      <edge id="1267" source="arealbigboss" target="Hoboritler" weight="2" />
+      <edge id="1268" source="arealbigboss" target="KeKaRoNi" weight="3" />
+      <edge id="1269" source="arealbigboss" target="smellslikecat" weight="3" />
+      <edge id="1270" source="arealbigboss" target="BenReilly616" weight="4" />
+      <edge id="1271" source="arealbigboss" target="smookykins" weight="3" />
+      <edge id="1272" source="arealbigboss" target="danielfromparis" weight="5" />
+      <edge id="1273" source="arealbigboss" target="Secretly_psycho" weight="3" />
+      <edge id="1274" source="arealbigboss" target="Bigdickedelf" weight="3" />
+      <edge id="1275" source="arealbigboss" target="throwaway__rnd" weight="2" />
+      <edge id="1276" source="pbj91738" target="AdolfSuperHitler" weight="2" />
+      <edge id="1277" source="pbj91738" target="CAPS_4_FUN" weight="3" />
+      <edge id="1278" source="Reversevagina" target="zeldaisaprude" weight="2" />
+      <edge id="1279" source="Reversevagina" target="CAPS_4_FUN" weight="3" />
+      <edge id="1280" source="Reversevagina" target="herewardwakes" weight="2" />
+      <edge id="1281" source="Oftowerbroleaning" target="_Decimation" weight="2" />
+      <edge id="1282" source="danielfromparis" target="donkey_democrat" weight="3" />
+      <edge id="1283" source="danielfromparis" target="lukesterboi1" weight="3" />
+      <edge id="1284" source="danielfromparis" target="lightfire409" weight="2" />
+      <edge id="1285" source="danielfromparis" target="blakdart" weight="2" />
+      <edge id="1286" source="danielfromparis" target="GuapoBermejo" weight="4" />
+      <edge id="1287" source="danielfromparis" target="Lizard_Of_Ozz" weight="6" />
+      <edge id="1288" source="danielfromparis" target="Beardedcap" weight="2" />
+      <edge id="1289" source="danielfromparis" target="Belrox" weight="2" />
+      <edge id="1290" source="danielfromparis" target="Muntberg" weight="3" />
+      <edge id="1291" source="danielfromparis" target="Trumpdonald17" weight="2" />
+      <edge id="1292" source="danielfromparis" target="Aders83" weight="2" />
+      <edge id="1293" source="danielfromparis" target="BasedBrexitBroker" weight="2" />
+      <edge id="1294" source="danielfromparis" target="RageAgainstThis" weight="2" />
+      <edge id="1295" source="danielfromparis" target="AntiHasbaraUnit" weight="3" />
+      <edge id="1296" source="danielfromparis" target="conativejj" weight="2" />
+      <edge id="1297" source="danielfromparis" target="DaBigBadGoy" weight="3" />
+      <edge id="1298" source="danielfromparis" target="satanicpriest13" weight="5" />
+      <edge id="1299" source="wikipediareader" target="Secretly_psycho" weight="2" />
+      <edge id="1300" source="eja_cool8" target="Coluphid" weight="2" />
+      <edge id="1301" source="eja_cool8" target="sgt_squirrel" weight="2" />
+      <edge id="1302" source="zeldaisaprude" target="LambsAnger" weight="2" />
+      <edge id="1303" source="zeldaisaprude" target="swallowsummer" weight="2" />
+      <edge id="1304" source="zeldaisaprude" target="cheerstocrime" weight="2" />
+      <edge id="1305" source="zeldaisaprude" target="smookykins" weight="2" />
+      <edge id="1306" source="zeldaisaprude" target="Chachmaster3000" weight="8" />
+      <edge id="1307" source="zeldaisaprude" target="Raspberries88" weight="2" />
+      <edge id="1308" source="zeldaisaprude" target="Auctoritate" weight="2" />
+      <edge id="1309" source="i_can_get_you_a_toe" target="Chachmaster3000" weight="2" />
+      <edge id="1310" source="RexAnglorumSaxonum" target="SurfTheKaliYuga" weight="3" />
+      <edge id="1311" source="RexAnglorumSaxonum" target="Tsaryan_" weight="2" />
+      <edge id="1312" source="RexAnglorumSaxonum" target="Sly_Meme" weight="2" />
+      <edge id="1313" source="RexAnglorumSaxonum" target="CAPS_4_FUN" weight="8" />
+      <edge id="1314" source="Arkenskjold" target="KeKaRoNi" weight="2" />
+      <edge id="1315" source="Arkenskjold" target="Secretly_psycho" weight="2" />
+      <edge id="1316" source="Saigunx" target="lnclincoln" weight="2" />
+      <edge id="1317" source="Saigunx" target="Lizard_Of_Ozz" weight="3" />
+      <edge id="1318" source="Saigunx" target="13301" weight="3" />
+      <edge id="1319" source="Saigunx" target="E_Deplorabus_Unum" weight="2" />
+      <edge id="1320" source="Saigunx" target="Muntberg" weight="3" />
+      <edge id="1321" source="Saigunx" target="Chachmaster3000" weight="2" />
+      <edge id="1322" source="Saigunx" target="not__banksy" weight="2" />
+      <edge id="1323" source="Saigunx" target="BasedBrexitBroker" weight="3" />
+      <edge id="1324" source="Saigunx" target="ZweiHollowFangs" weight="2" />
+      <edge id="1325" source="Saigunx" target="psycho1social" weight="3" />
+      <edge id="1326" source="Saigunx" target="roccogillybean" weight="2" />
+      <edge id="1327" source="Saigunx" target="nuesuh" weight="2" />
+      <edge id="1328" source="Saigunx" target="RantasaurusRekt" weight="3" />
+      <edge id="1329" source="Saigunx" target="ClericPreston815" weight="2" />
+      <edge id="1330" source="swallowsummer" target="Baboon_Mindset" weight="3" />
+      <edge id="1331" source="bigdaddyz40" target="Raspberries88" weight="2" />
+      <edge id="1332" source="dorfmanlet" target="Pastelitomaracucho" weight="6" />
+      <edge id="1333" source="dorfmanlet" target="texan_Tussler" weight="3" />
+      <edge id="1334" source="dorfmanlet" target="Desay" weight="2" />
+      <edge id="1335" source="dorfmanlet" target="hatredshmatred" weight="2" />
+      <edge id="1336" source="dorfmanlet" target="throwaway__rnd" weight="3" />
+      <edge id="1337" source="dorfmanlet" target="AdolfSuperHitler" weight="3" />
+      <edge id="1338" source="dorfmanlet" target="smashmarxism" weight="3" />
+      <edge id="1339" source="dorfmanlet" target="RP_Student" weight="2" />
+      <edge id="1340" source="dorfmanlet" target="CAPS_4_FUN" weight="7" />
+      <edge id="1341" source="dorfmanlet" target="Secretly_psycho" weight="2" />
+      <edge id="1342" source="dorfmanlet" target="herewardwakes" weight="4" />
+      <edge id="1343" source="Varg_Burzum_666" target="highprofittrade" weight="2" />
+      <edge id="1344" source="Varg_Burzum_666" target="BasedBrexitBroker" weight="2" />
+      <edge id="1345" source="Svenarchy" target="Kobathesealion" weight="2" />
+      <edge id="1346" source="psycho1social" target="KeKaRoNi" weight="2" />
+      <edge id="1347" source="psycho1social" target="smookykins" weight="2" />
+      <edge id="1348" source="arcoolka" target="FalmerbloodElixir" weight="3" />
+      <edge id="1349" source="FalmerbloodElixir" target="KeKaRoNi" weight="2" />
+      <edge id="1350" source="pandoramoonlight" target="Curveball14" weight="10" />
+      <edge id="1351" source="Jesus_Harry_Christ" target="Chachmaster3000" weight="3" />
+      <edge id="1352" source="TheTopSnek" target="not__banksy" weight="2" />
+      <edge id="1353" source="TheTopSnek" target="lightfire409" weight="2" />
+      <edge id="1354" source="TheTopSnek" target="Chachmaster3000" weight="2" />
+      <edge id="1355" source="Doitforthechesty" target="not__banksy" weight="3" />
+      <edge id="1356" source="Doitforthechesty" target="highprofittrade" weight="2" />
+      <edge id="1357" source="Doitforthechesty" target="Secretly_psycho" weight="2" />
+      <edge id="1358" source="Doitforthechesty" target="Chachmaster3000" weight="3" />
+      <edge id="1359" source="smashmarxism" target="Pastelitomaracucho" weight="5" />
+      <edge id="1360" source="smashmarxism" target="lukesterboi1" weight="2" />
+      <edge id="1361" source="smashmarxism" target="Desay" weight="2" />
+      <edge id="1362" source="smashmarxism" target="bassline8" weight="2" />
+      <edge id="1363" source="smashmarxism" target="hatredshmatred" weight="2" />
+      <edge id="1364" source="smashmarxism" target="DeAristoi" weight="2" />
+      <edge id="1365" source="smashmarxism" target="throwaway__rnd" weight="4" />
+      <edge id="1366" source="smashmarxism" target="AdolfSuperHitler" weight="6" />
+      <edge id="1367" source="smashmarxism" target="CAPS_4_FUN" weight="7" />
+      <edge id="1368" source="smashmarxism" target="RP_Student" weight="3" />
+      <edge id="1369" source="smashmarxism" target="herewardwakes" weight="2" />
+      <edge id="1370" source="AdolfSuperHitler" target="Pastelitomaracucho" weight="5" />
+      <edge id="1371" source="AdolfSuperHitler" target="lukesterboi1" weight="3" />
+      <edge id="1372" source="AdolfSuperHitler" target="texan_Tussler" weight="2" />
+      <edge id="1373" source="AdolfSuperHitler" target="Desay" weight="3" />
+      <edge id="1374" source="AdolfSuperHitler" target="hatredshmatred" weight="4" />
+      <edge id="1375" source="AdolfSuperHitler" target="GeraldoSemPavor" weight="2" />
+      <edge id="1376" source="AdolfSuperHitler" target="throwaway__rnd" weight="3" />
+      <edge id="1377" source="AdolfSuperHitler" target="UA_Hammer" weight="3" />
+      <edge id="1378" source="AdolfSuperHitler" target="CAPS_4_FUN" weight="11" />
+      <edge id="1379" source="AdolfSuperHitler" target="herewardwakes" weight="5" />
+      <edge id="1380" source="Porphyrogennetos" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1381" source="Porphyrogennetos" target="BasedBrexitBroker" weight="2" />
+      <edge id="1382" source="Porphyrogennetos" target="13301" weight="2" />
+      <edge id="1383" source="smellslikecat" target="smookykins" weight="4" />
+      <edge id="1384" source="justshitposterthings" target="CuckzBTFO" weight="2" />
+      <edge id="1385" source="justshitposterthings" target="aleister" weight="2" />
+      <edge id="1386" source="AntiHasbaraUnit" target="aleister" weight="2" />
+      <edge id="1387" source="AntiHasbaraUnit" target="The-Chronic" weight="5" />
+      <edge id="1388" source="cozye" target="B8444S" weight="2" />
+      <edge id="1389" source="diversity_is_racism" target="CuckzBTFO" weight="2" />
+      <edge id="1390" source="diversity_is_racism" target="Ultra_Patriot" weight="3" />
+      <edge id="1391" source="diversity_is_racism" target="Chachmaster3000" weight="2" />
+      <edge id="1392" source="CAPS_4_FUN" target="Pastelitomaracucho" weight="10" />
+      <edge id="1393" source="CAPS_4_FUN" target="lukesterboi1" weight="3" />
+      <edge id="1394" source="CAPS_4_FUN" target="texan_Tussler" weight="2" />
+      <edge id="1395" source="CAPS_4_FUN" target="Desay" weight="4" />
+      <edge id="1396" source="CAPS_4_FUN" target="Sly_Meme" weight="3" />
+      <edge id="1397" source="CAPS_4_FUN" target="hatredshmatred" weight="3" />
+      <edge id="1398" source="CAPS_4_FUN" target="TubeUnblockv1" weight="111" />
+      <edge id="1399" source="CAPS_4_FUN" target="ExFoundOutMyOldName" weight="2" />
+      <edge id="1400" source="CAPS_4_FUN" target="roflocalypselol" weight="2" />
+      <edge id="1401" source="CAPS_4_FUN" target="GeraldoSemPavor" weight="2" />
+      <edge id="1402" source="CAPS_4_FUN" target="UA_Hammer" weight="3" />
+      <edge id="1403" source="CAPS_4_FUN" target="throwaway__rnd" weight="5" />
+      <edge id="1404" source="CAPS_4_FUN" target="SurfTheKaliYuga" weight="2" />
+      <edge id="1405" source="CAPS_4_FUN" target="returnofgreatgibbon" weight="2" />
+      <edge id="1406" source="CAPS_4_FUN" target="RP_Student" weight="3" />
+      <edge id="1407" source="CAPS_4_FUN" target="herewardwakes" weight="8" />
+      <edge id="1408" source="The-Chronic" target="Curveball14" weight="5" />
+      <edge id="1409" source="The-Chronic" target="donkey_democrat" weight="5" />
+      <edge id="1410" source="The-Chronic" target="A_Mathematician" weight="2" />
+      <edge id="1411" source="The-Chronic" target="smookykins" weight="2" />
+      <edge id="1412" source="The-Chronic" target="Coluphid" weight="2" />
+      <edge id="1413" source="Al-Shakir" target="mjaumjau" weight="2" />
+      <edge id="1414" source="Curveball14" target="Ferenix2" weight="2" />
+      <edge id="1415" source="smookykins" target="HonkHonkSkeeter" weight="2" />
+      <edge id="1416" source="smookykins" target="donkey_democrat" weight="3" />
+      <edge id="1417" source="smookykins" target="bad_pattern10" weight="2" />
+      <edge id="1418" source="smookykins" target="Bane047" weight="2" />
+      <edge id="1419" source="smookykins" target="KeKaRoNi" weight="5" />
+      <edge id="1420" source="smookykins" target="Bigdickedelf" weight="5" />
+      <edge id="1421" source="smookykins" target="Secretly_psycho" weight="4" />
+      <edge id="1422" source="smookykins" target="A_Mathematician" weight="2" />
+      <edge id="1423" source="smookykins" target="BenReilly616" weight="4" />
+      <edge id="1424" source="smookykins" target="NeedHelpWithExcel" weight="2" />
+      <edge id="1425" source="Hippieremover" target="BigMatteson" weight="4" />
+      <edge id="1426" source="Hippieremover" target="KingMarshmalo" weight="3" />
+      <edge id="1427" source="Hippieremover" target="Secretly_psycho" weight="2" />
+      <edge id="1428" source="Secretly_psycho" target="donkey_democrat" weight="3" />
+      <edge id="1429" source="Secretly_psycho" target="KeKaRoNi" weight="6" />
+      <edge id="1430" source="Secretly_psycho" target="gringreazy" weight="2" />
+      <edge id="1431" source="Secretly_psycho" target="Penpenkyle27" weight="2" />
+      <edge id="1432" source="Secretly_psycho" target="cubev10" weight="5" />
+      <edge id="1433" source="Secretly_psycho" target="RiidoDorito" weight="2" />
+      <edge id="1434" source="Secretly_psycho" target="NeedHelpWithExcel" weight="3" />
+      <edge id="1435" source="Secretly_psycho" target="BigMatteson" weight="2" />
+      <edge id="1436" source="Secretly_psycho" target="KingMarshmalo" weight="2" />
+      <edge id="1437" source="alown" target="DaBigBadGoy" weight="2" />
+      <edge id="1438" source="alown" target="BasedBrexitBroker" weight="2" />
+      <edge id="1439" source="alown" target="lukesterboi1" weight="2" />
+      <edge id="1440" source="herewardwakes" target="Pastelitomaracucho" weight="4" />
+      <edge id="1441" source="herewardwakes" target="donkey_democrat" weight="2" />
+      <edge id="1442" source="herewardwakes" target="BadMawDota" weight="3" />
+      <edge id="1443" source="herewardwakes" target="NationalismSaves" weight="2" />
+      <edge id="1444" source="herewardwakes" target="GeraldoSemPavor" weight="3" />
+      <edge id="1445" source="herewardwakes" target="throwaway__rnd" weight="4" />
+      <edge id="1446" source="herewardwakes" target="RP_Student" weight="2" />
+      <edge id="1447" source="HonkHonkSkeeter" target="KeKaRoNi" weight="2" />
+      <edge id="1448" source="_Decimation" target="Baboon_Mindset" weight="2" />
+      <edge id="1449" source="Zechariah_murphy" target="hatredshmatred" weight="2" />
+      <edge id="1450" source="Zechariah_murphy" target="A_Mathematician" weight="2" />
+      <edge id="1451" source="farooq7" target="Ryonne" weight="2" />
+      <edge id="1452" source="farooq7" target="Chachmaster3000" weight="2" />
+      <edge id="1453" source="lnclincoln" target="gigatrap" weight="2" />
+      <edge id="1454" source="lnclincoln" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1455" source="lnclincoln" target="BigVeinyThrobber" weight="2" />
+      <edge id="1456" source="lnclincoln" target="RedPillDessert" weight="2" />
+      <edge id="1457" source="lnclincoln" target="HeilHitla" weight="2" />
+      <edge id="1458" source="Nollyx" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1459" source="hatredshmatred" target="UA_Hammer" weight="3" />
+      <edge id="1460" source="hatredshmatred" target="lukesterboi1" weight="2" />
+      <edge id="1461" source="hatredshmatred" target="Desay" weight="2" />
+      <edge id="1462" source="hdsgdsagdsaggdsagsda" target="sneakpeekbot" weight="2" />
+      <edge id="1463" source="Penpenkyle27" target="DaBigBadGoy" weight="2" />
+      <edge id="1464" source="Penpenkyle27" target="donkey_democrat" weight="2" />
+      <edge id="1465" source="Penpenkyle27" target="Luigidagawd" weight="2" />
+      <edge id="1466" source="Penpenkyle27" target="Thrownitawaytho" weight="2" />
+      <edge id="1467" source="Penpenkyle27" target="cubev10" weight="2" />
+      <edge id="1468" source="E_Deplorabus_Unum" target="AnorexicBuddha" weight="2" />
+      <edge id="1469" source="E_Deplorabus_Unum" target="blakdart" weight="2" />
+      <edge id="1470" source="UA_Hammer" target="lightfire409" weight="2" />
+      <edge id="1471" source="UA_Hammer" target="throwaway__rnd" weight="2" />
+      <edge id="1472" source="sneakpeekbot" target="anechoicmedia" weight="2" />
+      <edge id="1473" source="PUTINsTiTs" target="MongolianCluster" weight="2" />
+      <edge id="1474" source="BasedBrexitBroker" target="donkey_democrat" weight="2" />
+      <edge id="1475" source="BasedBrexitBroker" target="lukesterboi1" weight="3" />
+      <edge id="1476" source="BasedBrexitBroker" target="HeilHitla" weight="2" />
+      <edge id="1477" source="BasedBrexitBroker" target="lightfire409" weight="3" />
+      <edge id="1478" source="BasedBrexitBroker" target="Lizard_Of_Ozz" weight="3" />
+      <edge id="1479" source="BasedBrexitBroker" target="Beardedcap" weight="2" />
+      <edge id="1480" source="BasedBrexitBroker" target="Chachmaster3000" weight="6" />
+      <edge id="1481" source="BasedBrexitBroker" target="highprofittrade" weight="2" />
+      <edge id="1482" source="BasedBrexitBroker" target="DaBigBadGoy" weight="2" />
+      <edge id="1483" source="BasedBrexitBroker" target="ZweiHollowFangs" weight="2" />
+      <edge id="1484" source="BasedBrexitBroker" target="cheerstocrime" weight="2" />
+      <edge id="1485" source="BasedBrexitBroker" target="sizzletron" weight="2" />
+      <edge id="1486" source="BasedBrexitBroker" target="nuesuh" weight="3" />
+      <edge id="1487" source="BasedBrexitBroker" target="ClericPreston815" weight="3" />
+      <edge id="1488" source="BasedBrexitBroker" target="RedPillDessert" weight="3" />
+      <edge id="1489" source="Samizdat_Press" target="Chachmaster3000" weight="2" />
+      <edge id="1490" source="foobar5678" target="Chachmaster3000" weight="2" />
+      <edge id="1491" source="lightfire409" target="gigatrap" weight="2" />
+      <edge id="1492" source="lightfire409" target="BenReilly616" weight="2" />
+      <edge id="1493" source="lightfire409" target="barkusmuhl" weight="2" />
+      <edge id="1494" source="lightfire409" target="Lizard_Of_Ozz" weight="3" />
+      <edge id="1495" source="lightfire409" target="Raspberries88" weight="2" />
+      <edge id="1496" source="potato_control" target="highprofittrade" weight="5" />
+      <edge id="1497" source="CuckzBTFO" target="BenReilly616" weight="2" />
+      <edge id="1498" source="CuckzBTFO" target="HeilHitla" weight="3" />
+      <edge id="1499" source="CuckzBTFO" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1500" source="CuckzBTFO" target="RedPillDessert" weight="3" />
+      <edge id="1501" source="Coluphid" target="sgt_squirrel" weight="2" />
+      <edge id="1502" source="Coluphid" target="donkey_democrat" weight="2" />
+      <edge id="1503" source="Coluphid" target="Bigdickedelf" weight="5" />
+      <edge id="1504" source="Dysnomi" target="nuesuh" weight="2" />
+      <edge id="1505" source="Belrox" target="NationalismSaves" weight="2" />
+      <edge id="1506" source="Belrox" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1507" source="Auctoritate" target="Chachmaster3000" weight="2" />
+      <edge id="1508" source="Pastelitomaracucho" target="throwaway__rnd" weight="3" />
+      <edge id="1509" source="Pastelitomaracucho" target="lukesterboi1" weight="2" />
+      <edge id="1510" source="Pastelitomaracucho" target="Desay" weight="2" />
+      <edge id="1511" source="Pastelitomaracucho" target="GeraldoSemPavor" weight="2" />
+      <edge id="1512" source="Pastelitomaracucho" target="RP_Student" weight="4" />
+      <edge id="1513" source="donkey_democrat" target="lukesterboi1" weight="2" />
+      <edge id="1514" source="donkey_democrat" target="BasedTojo" weight="3" />
+      <edge id="1515" source="donkey_democrat" target="KeKaRoNi" weight="2" />
+      <edge id="1516" source="donkey_democrat" target="roccogillybean" weight="3" />
+      <edge id="1517" source="donkey_democrat" target="nuesuh" weight="4" />
+      <edge id="1518" source="donkey_democrat" target="ClericPreston815" weight="2" />
+      <edge id="1519" source="SSJ3DonaldTrump" target="nuesuh" weight="2" />
+      <edge id="1520" source="SSJ3DonaldTrump" target="Muscle_Mass" weight="2" />
+      <edge id="1521" source="Ultra_Patriot" target="nuesuh" weight="2" />
+      <edge id="1522" source="HeilHitla" target="BenReilly616" weight="2" />
+      <edge id="1523" source="iceboob" target="not__banksy" weight="2" />
+      <edge id="1524" source="GeraldoSemPavor" target="RP_Student" weight="2" />
+      <edge id="1525" source="throwaway__rnd" target="Desay" weight="4" />
+      <edge id="1526" source="DaBigBadGoy" target="highprofittrade" weight="3" />
+      <edge id="1527" source="DaBigBadGoy" target="Lizard_Of_Ozz" weight="3" />
+      <edge id="1528" source="Callooh_Calais" target="bluespirit442" weight="2" />
+      <edge id="1529" source="Callooh_Calais" target="Name_change_here" weight="2" />
+      <edge id="1530" source="Callooh_Calais" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1531" source="sizzletron" target="Lizard_Of_Ozz" weight="3" />
+      <edge id="1532" source="RP_Student" target="lukesterboi1" weight="2" />
+      <edge id="1533" source="RP_Student" target="Desay" weight="3" />
+      <edge id="1534" source="Hitlers-Happy-HR-dpt" target="Baboon_Mindset" weight="3" />
+      <edge id="1535" source="flippermcgeek" target="Chachmaster3000" weight="2" />
+      <edge id="1536" source="Ferenix2" target="G_Petronius" weight="2" />
+      <edge id="1537" source="ClericPreston815" target="RedPillDessert" weight="2" />
+      <edge id="1538" source="BigMatteson" target="KingMarshmalo" weight="3" />
+      <edge id="1539" source="MessisTaxAccountant" target="not__banksy" weight="2" />
+      <edge id="1540" source="MessisTaxAccountant" target="Chachmaster3000" weight="3" />
+      <edge id="1541" source="natedog5454101" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1542" source="Muscle_Mass" target="nuesuh" weight="4" />
+      <edge id="1543" source="lukesterboi1" target="Desay" weight="2" />
+      <edge id="1544" source="lukesterboi1" target="Lizard_Of_Ozz" weight="5" />
+      <edge id="1545" source="lukesterboi1" target="13301" weight="4" />
+      <edge id="1546" source="lukesterboi1" target="Bigdickedelf" weight="3" />
+      <edge id="1547" source="lukesterboi1" target="Jaewok" weight="2" />
+      <edge id="1548" source="lukesterboi1" target="RedPillDessert" weight="2" />
+      <edge id="1549" source="Angelic2TheCore" target="highprofittrade" weight="2" />
+      <edge id="1550" source="KeKaRoNi" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1551" source="KeKaRoNi" target="BenReilly616" weight="2" />
+      <edge id="1552" source="KeKaRoNi" target="satanicpriest13" weight="4" />
+      <edge id="1553" source="13301" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1554" source="gigatrap" target="Raspberries88" weight="2" />
+      <edge id="1555" source="gigatrap" target="Chachmaster3000" weight="2" />
+      <edge id="1556" source="highprofittrade" target="Luigidagawd" weight="2" />
+      <edge id="1557" source="highprofittrade" target="Thrownitawaytho" weight="2" />
+      <edge id="1558" source="highprofittrade" target="Lizard_Of_Ozz" weight="4" />
+      <edge id="1559" source="highprofittrade" target="Chachmaster3000" weight="6" />
+      <edge id="1560" source="highprofittrade" target="not__banksy" weight="2" />
+      <edge id="1561" source="highprofittrade" target="MongolianCluster" weight="2" />
+      <edge id="1562" source="highprofittrade" target="Ryonne" weight="2" />
+      <edge id="1563" source="highprofittrade" target="your_comments_say" weight="2" />
+      <edge id="1564" source="slippery_people" target="Bigdickedelf" weight="3" />
+      <edge id="1565" source="roccogillybean" target="2mo_xmas_pasta" weight="2" />
+      <edge id="1566" source="Ryonne" target="Chachmaster3000" weight="3" />
+      <edge id="1567" source="G_Petronius" target="Bigdickedelf" weight="9" />
+      <edge id="1568" source="aleister" target="Bigdickedelf" weight="2" />
+      <edge id="1569" source="RedPillDessert" target="Lizard_Of_Ozz" weight="2" />
+      <edge id="1570" source="RedPillDessert" target="ZweiHollowFangs" weight="3" />
+      <edge id="1571" source="RedPillDessert" target="Thrownitawaytho" weight="2" />
+      <edge id="1572" source="CoatConfiscator" target="nuesuh" weight="2" />
+      <edge id="1573" source="AnorexicBuddha" target="Chachmaster3000" weight="2" />
+      <edge id="1574" source="bigassbananaboat" target="Chachmaster3000" weight="2" />
+      <edge id="1575" source="GlobalSouth" target="blakdart" weight="2" />
+      <edge id="1576" source="Lizard_Of_Ozz" target="JunyiiBlvc" weight="2" />
+      <edge id="1577" source="Lizard_Of_Ozz" target="Muntberg" weight="4" />
+      <edge id="1578" source="Lizard_Of_Ozz" target="Chachmaster3000" weight="3" />
+      <edge id="1579" source="Bigdickedelf" target="nuesuh" weight="2" />
+      <edge id="1580" source="RightWingPrankSquads" target="Chachmaster3000" weight="2" />
+      <edge id="1581" source="AintGotNoTimeFoThis" target="Muntberg" weight="3" />
+      <edge id="1582" source="satanicpriest13" target="nuesuh" weight="2" />
+      <edge id="1583" source="NeedHelpWithExcel" target="Chachmaster3000" weight="2" />
+      <edge id="1584" source="Thrownitawaytho" target="Beardedcap" weight="2" />
+      <edge id="1585" source="Thrownitawaytho" target="Chachmaster3000" weight="3" />
+      <edge id="1586" source="2mo_xmas_pasta" target="Muntberg" weight="2" />
+      <edge id="1587" source="No_all" target="Captainmorphine" weight="2" />
+      <edge id="1588" source="Chachmaster3000" target="not__banksy" weight="2" />
+      <edge id="1589" source="Chachmaster3000" target="Baboon_Mindset" weight="2" />
+    </edges>
+  </graph>
+</gexf>
