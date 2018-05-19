@@ -1,0 +1,22 @@
+THE BASIC QUESTION:
+    How did the Reddit ban of 2015 affect the communities around the ban?
+
+General goal:
+    Construct a network from before, (during), and after the 2015 ban, using users from the banned subreddits.
+
+What is the network?:
+    Nodes are users
+    Edges are whether they commented on the same thread
+    	  If that's too much or too little, change it as needed
+    This will need to include people who 
+
+What are you looking for?:
+    Did the network fragment after the ban? (Number of connect components)
+    Did communities become more tight-knit after the ban? (Clustering coefficient)
+    Did the communities become more disparate after the ban? (Assortativity)
+    How many people left reddit altogether?
+    How many people increased their interactions with users who posted in the associated subs?
+
+Future work (basically, a list of stuff to avoid doing):
+    Content analysis of the posts to understand if their behaviors changed
+    
